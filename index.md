@@ -51,7 +51,7 @@ A continuación se presenta una lista con datos bibliográficos básicos de las 
 4. Tesis de maestría
 5. Tesis publicadas
    
-
+## Lista de datos por modalidad de grado y las tesis publicadas
 
 1. Tesis de licenciatura
    
