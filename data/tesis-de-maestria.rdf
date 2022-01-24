@@ -1,0 +1,178 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:bib="http://purl.org/net/biblio#">
+    <bib:Thesis rdf:about="#item_2575">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Caballero Espinoza</foaf:surname>
+                        <foaf:givenName>Ángela María</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>La virgen de Copacabana. Construcción de identidades de género en torno al imaginario de una mujer madre en los Andes</dc:title>
+        <dc:date>2010</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>La virgen de Copacabana</z:shortTitle>
+        <z:type>Tesis de Maestría</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2576">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Oporto Ordóñez</foaf:surname>
+                        <foaf:givenName>Luis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>La construcción de la bibliografía nacional. Historia de las bibliotecas en Bolivia</dc:title>
+        <dc:date>2013</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>La construcción de la bibliografía nacional</z:shortTitle>
+        <z:type>Tesis de Maestría</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2602">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chuquimia Meave</foaf:surname>
+                        <foaf:givenName>Franz Solano</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cajías de la Vega</foaf:surname>
+                        <foaf:givenName>Fernando</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>De Huarina a Yungay. Creación, vigencia y colapso de la Confederación Perú-Boliviana</dc:title>
+        <dc:date>2020</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>De Huarina a Yungay</z:shortTitle>
+        <z:type>Tesis de Maestría</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_3476">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fernández Quisbert</foaf:surname>
+                        <foaf:givenName>Ramiro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mamani Condori</foaf:surname>
+                        <foaf:givenName>Carlos</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>La Guerra Indígena contra el Estado oligárquico en el departamento de La Paz en su IV Centenario de fundación 1946-1948</dc:title>
+        <dc:date>2014</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>La Guerra Indígena</z:shortTitle>
+        <z:type>Tesis de Maestría</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_3477">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chuquimia Bonifaz</foaf:surname>
+                        <foaf:givenName>Fernando</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jauregui Cordero</foaf:surname>
+                        <foaf:givenName>Juan Heriberto</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>El aporte de Juan Siles Guevara a la historiografía boliviana 1960-1990</dc:title>
+        <dc:date>2014</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>La Guerra Indígena</z:shortTitle>
+        <z:type>Tesis de Maestría</z:type>
+    </bib:Thesis>
+</rdf:RDF>

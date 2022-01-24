@@ -1,0 +1,4557 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:bib="http://purl.org/net/biblio#">
+    <bib:Thesis rdf:about="#item_1064">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ballivian Martins</foaf:surname>
+                        <foaf:givenName>María Florencia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:title>José María Pérez de Urdininea en el norte argentino (1819-1825)</dc:title>
+        <dc:date>1975</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>José María Pérez de Urdininea</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_1067">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cajías de la Vega</foaf:surname>
+                        <foaf:givenName>Fernando Julio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:title>La provincia de Atacama, 1825-1841</dc:title>
+        <dc:date>1975</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>La provincia de Atacama</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_1070">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gomez Asport</foaf:surname>
+                        <foaf:givenName>Blanca Asunción</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:title>Casimiro Olañeta diplomático, 1824-1841</dc:title>
+        <dc:date>1976</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Casimiro Olañeta</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_1073">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Portugal Ortiz</foaf:surname>
+                        <foaf:givenName>Max</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Prehispánica</dc:subject>
+        <dc:title>La arqueología de la región del río Beni</dc:title>
+        <dc:date>1976</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>La arqueología de la región del río Beni</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_1076">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Arze Aguirre</foaf:surname>
+                        <foaf:givenName>René Danilo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:title>Lucha y sentido popular en los primeros años de la guerra de la independencia altoperuana</dc:title>
+        <dc:date>1976</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Lucha y sentido popular</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_1079">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Siles Guevara</foaf:surname>
+                        <foaf:givenName>Juan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:title>Primeras misiones diplomáticas bolivianas ante las grandes potencias</dc:title>
+        <dc:date>1978</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Primeras misiones diplomáticas</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_1080">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Choque Canqui</foaf:surname>
+                        <foaf:givenName>Roberto</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:title>Situación social y económica de los revolucionarios del 16 de julio de 1809</dc:title>
+        <dc:date>1979</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Situación social y económica de los revolucionarios</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_1082">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Urioste Fernandez de Cordova</foaf:surname>
+                        <foaf:givenName>Marta</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:title>Zoilo Flores Aponte y el ferrocarril de Mejillones a Caracoles</dc:title>
+        <dc:date>1979</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Zoilo Flores Aponte</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_1083">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Money Orozco</foaf:surname>
+                        <foaf:givenName>Mary</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XVI</dc:subject>
+        <dc:subject>Siglo XVII</dc:subject>
+        <dc:subject>Siglo XVIII</dc:subject>
+        <dc:title>El traje, los obrajes y el comercio de ropa en la Audiencia de Charcas</dc:title>
+        <dc:date>1982</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>El traje, los obrajes</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_1086">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Valda Martinez</foaf:surname>
+                        <foaf:givenName>Edgar Armando</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XVIII</dc:subject>
+        <dc:title>Los jesuitas de Potosí y el llamado ramo de temporalidades</dc:title>
+        <dc:date>1984</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Los jesuitas de Potosí</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_1087">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jáuregui Cordero</foaf:surname>
+                        <foaf:givenName>Juan Heriberto</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XVIII</dc:subject>
+        <dc:title>Comercio entre La Paz y Perú, 1740-1780</dc:title>
+        <dc:date>1984</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Comercio entre La Paz y Perú</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_1088">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cajías de la Vega</foaf:surname>
+                        <foaf:givenName>María Magdalena</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>El movimiento obrero boliviano en la distribución oligárquica en la etapa inmediatamente posterior al triunfo de la insurrección de abril de 1952</dc:title>
+        <dc:date>1984</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>El movimiento obrero boliviano</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_1089">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Escobari Cardozo</foaf:surname>
+                        <foaf:givenName>Laura Angelita</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XVII</dc:subject>
+        <dc:title>Tráfico comercial a través de Charcas, 1650-1700</dc:title>
+        <dc:date>1984</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Tráfico comercial</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_1092">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bozo Dalence</foaf:surname>
+                        <foaf:givenName>Sander Alfredo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:title>Los caudillos guerrilleros de la independencia ¿cuatreros o patriotas?</dc:title>
+        <dc:date>1985</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Los caudillos guerrilleros</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_1093">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Medinaceli Gonzáles</foaf:surname>
+                        <foaf:givenName>María Ximena Emilia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:title>Comunarios y yanaconas. Resistencia pacífica de los indios de Omasuyus. Siglo XIX</dc:title>
+        <dc:date>1986</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Comunarios y yanaconas</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_1094">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pérez Torrico</foaf:surname>
+                        <foaf:givenName>Alexis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:title>El Estado oligárquico y los empresarios de Atacama, 1871-1878</dc:title>
+        <dc:date>1987</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>El Estado oligárquico</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_1096">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Soux Muñoz-Reyes</foaf:surname>
+                        <foaf:givenName>María Luisa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Producción y circuitos mercantiles de la coca yungueña, 1900-1935</dc:title>
+        <dc:date>1987</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Producción y circuitos mercantiles</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_1099">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mamani Condori</foaf:surname>
+                        <foaf:givenName>Carlos Borombio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Agresión colonial y resistencia comunaria, 1868-1935: de la masacre de Taracu a la propuesta de &quot;Renovación de Bolivia&quot; de Eduardo Nina Qhispi</dc:title>
+        <dc:date>1989</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Agresión colonial y resistencia comunitaria</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_1404">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Salvatierra Tusco</foaf:surname>
+                        <foaf:givenName>Miguel Ángel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Oporto Ordóñez</foaf:surname>
+                        <foaf:givenName>Luis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Pulacayo: vida económica y social (1960-1996)</dc:title>
+        <dc:date>2020</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Pulacayo: vida económica y social</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2463">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Paredes Oviedo</foaf:surname>
+                        <foaf:givenName>Martha Beatriz</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XVII</dc:subject>
+        <dc:subject>Siglo XVIII</dc:subject>
+        <dc:title>Administración de justicia y conflicto de poderes: delincuencia y cárceles en la audiencia de Charcas, siglos XVII-XVIII</dc:title>
+        <dc:date>1991</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Administración de justicia y conflicto de poderes</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2464">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Villarreal Montaño</foaf:surname>
+                        <foaf:givenName>Aydee</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:subject>Siglo XVI</dc:subject>
+        <dc:subject>Siglo XVII</dc:subject>
+        <dc:subject>Siglo XVIII</dc:subject>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Historia de las haciendas vitivinícolas del valle de Caracoto, 1580-1970</dc:title>
+        <dc:date>1992</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Historia de las haciendas vitinícolas</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2465">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gamarra Téllez</foaf:surname>
+                        <foaf:givenName>María del Pilar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Haciendas y peones en el régimen hacendatario gomero boliviano. Las bases económicas de un poder regional: la Casa Suárez, 1880-1940</dc:title>
+        <dc:date>1992</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Haciendas y peones en el régimen hacendatario gomero</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2466">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Peñaloza Bretel</foaf:surname>
+                        <foaf:givenName>Marco Antonio Romelio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:title>Economía de exportación y desarrollo regional. El auge de la quina en la provincia Larecaja del departamento de La Paz (1870-1890)</dc:title>
+        <dc:date>1992</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Economía de exportación y desarrollo regional. El auge de la quina</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2467">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Soux Muñoz-Reyes</foaf:surname>
+                        <foaf:givenName>María Eugenia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:title>La música en la ciudad de La Paz: 1845-1885</dc:title>
+        <dc:date>1993</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>La música en la ciudad de La Paz</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2468">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Choque Condori</foaf:surname>
+                        <foaf:givenName>Germán</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:subject>Siglo XVIII</dc:subject>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Whiphalas comuneras y banderas coloniales en fiestas y conflictos</dc:title>
+        <dc:date>1993</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Whiplalas comuneras y banderas coloniales</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2469">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mendieta Parada</foaf:surname>
+                        <foaf:givenName>María del Pilar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Resistencia y rebelión indígena en Mohoza: la masacre de 1899</dc:title>
+        <dc:date>1994</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Resistencia y rebelión indígena en Mohoza</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2470">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guzmán Murillo</foaf:surname>
+                        <foaf:givenName>Gladys</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:title>Política agraria del gobierno del general mariano Melgarejo, 1860-1871. La venta de tierras de comunidad y el conflicto en el altiplano paceño</dc:title>
+        <dc:date>1994</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Política agraria del gobierno del general mariano Melgarejo, 1860-1871</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2471">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Santos Escobar</foaf:surname>
+                        <foaf:givenName>Roberto</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XVIII</dc:subject>
+        <dc:title>Los mineros de Larecaja. La explotación de oro y su influencia en la economía regional de La Paz del siglo XVIII</dc:title>
+        <dc:date>1994</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Los mineros de Larecaja</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2472">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Atristain Verazain</foaf:surname>
+                        <foaf:givenName>Cecilia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>La reforma agraria en el ámbito circumlacustre y el proyecto democrático burgués del capitalismo de estado</dc:title>
+        <dc:date>1994</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>La reformar agraria en el ámbito circumlacustre</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2473">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Seoane Flores</foaf:surname>
+                        <foaf:givenName>Ana María</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:title>Poder local en la emergente República de Bolivia: el caso de La Paz (1825-1828)</dc:title>
+        <dc:date>1994</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Poder local en la emergente República de Bolivia</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2474">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Arze Ormachea</foaf:surname>
+                        <foaf:givenName>Silvia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XVIII</dc:subject>
+        <dc:title>Artesanos de barrios de indios. El caso de la ciudad de La Paz en el siglo XVIII</dc:title>
+        <dc:date>1994</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Artesanos de barrios de indios</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2476">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fernández Mazzi</foaf:surname>
+                        <foaf:givenName>Carmen Patricia del Pilar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XVIII</dc:subject>
+        <dc:title>Del corregimiento a la intendencia: la lucha por el poder local en La Paz, 1780-1784</dc:title>
+        <dc:date>1994</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Del corregimiento a la intendencia</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2477">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Durán Jordán</foaf:surname>
+                        <foaf:givenName>Cecilia Julia Florencia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:title>El poder local en la ciudad de La Paz: municipio y juntas entre 1848-1855</dc:title>
+        <dc:date>1994</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>el poder local en la ciudad de La Paz</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2478">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fernández Quisbert</foaf:surname>
+                        <foaf:givenName>Ramiro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Cañamina: la historia de una hacienda de los yungas de Inquisivi (siglo XIX-XX)</dc:title>
+        <dc:date>1995</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Cañamina: la historia de una hacienda</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2479">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aillón Soria</foaf:surname>
+                        <foaf:givenName>Esther</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:title>Vida, pasión y negocios: el propietario de la viña San Pedro Mártir en los últimos días de la colonia y durante la guerra de Independencia. Indalecio Gonzáles de Socaca (1755-1820)</dc:title>
+        <dc:date>1996</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Vida, pasión y negocios</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2481">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Quiroga Gismondi</foaf:surname>
+                        <foaf:givenName>Miriam Teresa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XVI</dc:subject>
+        <dc:subject>Siglo XVII</dc:subject>
+        <dc:subject>Siglo XVIII</dc:subject>
+        <dc:title>Censos y capellanías en la ciudad de La Paz durante el coloniaje</dc:title>
+        <dc:date>1996</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Censos y capellanías</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2482">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hilari Choquehuanca</foaf:surname>
+                        <foaf:givenName>Rubén Luis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Historia de la colonización del noroeste paceño. Alto Beni</dc:title>
+        <dc:date>1997</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Historia de la colonización del noroeste paceño</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2483">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Loza Vidaurre</foaf:surname>
+                        <foaf:givenName>María Carmen Beatriz</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XVI</dc:subject>
+        <dc:title>Demografía de una encomienda de La Paz. Qirua de Uyuni, 1550-1598</dc:title>
+        <dc:date>1997</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Demografía de una encomienda</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2484">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Medrano Reyes</foaf:surname>
+                        <foaf:givenName>Guillermo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Historia del comercio exterior de Bolivia. Las exportaciones y las importaciones (1900-1920)</dc:title>
+        <dc:date>1997</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Historia del comercio exterior de Bolivia</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2485">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gómez Zubieta</foaf:surname>
+                        <foaf:givenName>Luis Reynaldo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Ferrocarriles en Bolivia. Del anhelo a la frustración, 1860-1929</dc:title>
+        <dc:date>1998</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Ferrocarriles en Bolivia</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2486">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ríos Arce</foaf:surname>
+                        <foaf:givenName>Luz Evelyn</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:title>Juana Azurduy de Padilla entre la historia y el mito</dc:title>
+        <dc:date>1998</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Juana Azurduy de Padilla</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2487">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Inch Calvimonte</foaf:surname>
+                        <foaf:givenName>Marjorie Marcela</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:subject>Siglo XVIII</dc:subject>
+        <dc:title>Bibliotecas privadas y libros en venta en Potosí y su entorno: 1750-1825</dc:title>
+        <dc:date>1998</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Bibliotecas privadas y libros en venta en Potosí</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2489">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chuquimia Bonifaz</foaf:surname>
+                        <foaf:givenName>Fernando</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Las Sociedades de Socorro Mutuo y Beneficencia en La Paz, 1883-1920</dc:title>
+        <dc:date>1998</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Las Sociedades de Socorro Mutuo</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2492">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Plaza Escobar</foaf:surname>
+                        <foaf:givenName>Luis Manuel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XVII</dc:subject>
+        <dc:subject>Siglo XVIII</dc:subject>
+        <dc:title>Ni dioses ni demonios. Pensamiento y vida en las misiones jesuitas de Mojos. Siglos XVII-XVIII</dc:title>
+        <dc:date>1999</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Ni dioses ni demonios</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2493">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cusicanqui Olañeta</foaf:surname>
+                        <foaf:givenName>Vito</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Prehispánica</dc:subject>
+        <dc:title>Geopolítica prehispánica andina. Imperialismo expansivo en los andes bolivianos</dc:title>
+        <dc:date>2000</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Geopolítica prehispánica andina</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2494">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cuba Quispe</foaf:surname>
+                        <foaf:givenName>Simón</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:subject>Siglo XVIII</dc:subject>
+        <dc:title>Las fiestas religiosas de la ciudad de La Paz, 1848-1900</dc:title>
+        <dc:date>2000</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Las fiestas religiosas de la ciudad de La Paz</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2495">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>García Guzmán</foaf:surname>
+                        <foaf:givenName>Anamaría del Pilar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XVI</dc:subject>
+        <dc:subject>Siglo XVII</dc:subject>
+        <dc:title>Las dotes de la ciudad de La Paz, 1585-1650. Patrimonio y poder en la sociedad colonial</dc:title>
+        <dc:date>2000</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Las dotes de la ciudad de La Paz</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2496">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cortéz Rodríguez</foaf:surname>
+                        <foaf:givenName>Julio Jorge Francisco</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:title>Caciques y hechiceros. Origen de dos tendencias en la historiografía de Mojos</dc:title>
+        <dc:date>2001</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Caciques y hechiceros</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2497">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Loureiro Toncovich</foaf:surname>
+                        <foaf:givenName>Carolina Gabriela</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>La identificación de una sociedad pigmentocrática. Cédula de identidad y mecanismos de clasificación social en la sociedad paceña de la década de 1930</dc:title>
+        <dc:date>2000</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>La identificación de una sociedad pigmentocrática</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2498">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tarqui Suntura</foaf:surname>
+                        <foaf:givenName>Lucio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Formación de haciendas latifundios en el altiplano central norte lacustre del departamento de La Paz. Periodo de 1870-1940</dc:title>
+        <dc:date>2001</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Formación de haciendas latifundios</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2499">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Oporto Ordóñez</foaf:surname>
+                        <foaf:givenName>Luis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Estrategias de apropiación real del espacio. Empresa minera capitalista, vida social y desarrollo urbano en Uncía y Llallagua (1900-1936)</dc:title>
+        <dc:date>2001</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Estrategias de apropiación real del espacio</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2500">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Acebey Ayoroa</foaf:surname>
+                        <foaf:givenName>Amilkar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>La política fiscal en Bolivia entre 1928 y 1952. La emergencia del Estado interventor en la economía como consecuencia de su desarrollo institucional</dc:title>
+        <dc:date>2002</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>La política fiscal en Bolivia</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2501">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Flores Quispe</foaf:surname>
+                        <foaf:givenName>Hugo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Colquiri una mina de estaño, 1920-1963</dc:title>
+        <dc:date>2002</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Colquiri una mina de estaño</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2502">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Maquera Colque</foaf:surname>
+                        <foaf:givenName>Tiburcio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Reforma agraria en Carabuco, 1940-1960. Consecuencias de las relaciones sociales en el proceso de la reforma agraria</dc:title>
+        <dc:date>2003</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Reforma agraria en Carabuco</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2503">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Huañapaco Cahuaya</foaf:surname>
+                        <foaf:givenName>Julio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Historia de la educación indígena. Primer núcleo escolar indígena &quot;Antonio Chiriotto&quot; en Huatajata-Bolivia, pionero de la educación y modelo de transformación social en la región lacustre del Titiqaqa, 1900-1931</dc:title>
+        <dc:date>2003</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Historia de la educación indígena</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2504">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Montaño Durán</foaf:surname>
+                        <foaf:givenName>Patricia Beatriz</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:title>Modesta Sanginés (1832-1887), precursora del feminismo en Bolivia. Estudio biográfico</dc:title>
+        <dc:date>2004</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Modesta Sanginés</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2505">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yujra Roque</foaf:surname>
+                        <foaf:givenName>Mario</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>La construcción del imaginario histórico a través de la iconografía de monumentos, 1900-1930</dc:title>
+        <dc:date>2004</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>La construcción del imaginario histórico</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2506">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rodríguez Quispe</foaf:surname>
+                        <foaf:givenName>Virgilio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Impacto de la modernidad en la ciudad de La Paz, 1900-1920</dc:title>
+        <dc:date>2004</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Impacto de la modernidad en la ciudad de La Paz</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2507">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Flores Jemio</foaf:surname>
+                        <foaf:givenName>Edson Daniel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Efectos psicosomáticos en los combatientes bolivianos durante la batalla y el cerco de Boquerón</dc:title>
+        <dc:date>2005</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Efectos psicosomáticos en los combatientes</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2508">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Izurieta y Sea Moyano-Escalera</foaf:surname>
+                        <foaf:givenName>Macarena</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Mentalidad colonial y discurso moderno de la élite criolla a inicios del siglo XX</dc:title>
+        <dc:date>2005</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Mentalidad colonial y discurso moderno</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2509">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Quispe Fernández</foaf:surname>
+                        <foaf:givenName>Zenón</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>El camélido en Santiago de Machaca. Entre el intercambio y el contrabando del siglo XX (Santiago de Machaca-Bolivia y Täcna- Perú)</dc:title>
+        <dc:date>2005</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>El camélido en Santiago de Machaca</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2518">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Roa Valderrama</foaf:surname>
+                        <foaf:givenName>Ronald</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Arturo Borda. Historia secreta de un ser horriblemente libre</dc:title>
+        <dc:date>2005</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Arturo Borda</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2519">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cruz Condori</foaf:surname>
+                        <foaf:givenName>Guido Esteban</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Orígenes y proceso antagónico en el espacio agrario e histórico del pueblo de Achocalla, 1830-1960</dc:title>
+        <dc:date>2005</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Orígenes y proceso antagónico en el espacio agrario</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2520">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Canedo Cáceres</foaf:surname>
+                        <foaf:givenName>María Cristina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Procesos electorales bajo el régimen del Movimiento Nacionalista Revolucionario, 1956, 1960 y 1964</dc:title>
+        <dc:date>2005</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Proceso electorales</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2521">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mollo Machaca</foaf:surname>
+                        <foaf:givenName>José</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Las Escuelas de Cristo. Una obra de la Misión Franciscana en Bolivia, 1907-1964</dc:title>
+        <dc:date>2006</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Las Escuelas de Cristo</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2522">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mamani Humerez</foaf:surname>
+                        <foaf:givenName>Froilán</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:title>Ocupación y distribución de los espacios andinos en la región del Titicaca. El cantón Santiago de Huata entre 1842 y 1893</dc:title>
+        <dc:date>2006</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Ocupación y distribución de los espacios andinos</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2523">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bautista Huanca</foaf:surname>
+                        <foaf:givenName>Zenón Ferrer</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Violencia estatal en Bolivia durante el régimen del Movimiento Nacionalista Revolucionario (MNR) 1952-1964</dc:title>
+        <dc:date>2006</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Violencia estatal en Bolivia</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2524">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aramayo Bilbao La Vieja</foaf:surname>
+                        <foaf:givenName>Carlos Eduardo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:subject>Siglo XXI</dc:subject>
+        <dc:title>¡Que cada uno de vosotros sea su propia isla! El Budismo en Bolivia (1992-2004). desde la perspectiva de sus inicios en India y Asia y su futuro en la sociedad boliviana</dc:title>
+        <dc:date>2006</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>El Budismo en Bolivia</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2525">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bequer Álvarez</foaf:surname>
+                        <foaf:givenName>Edwin Adolfo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Rol del Ejército de Bolivia en la historia política nacional, desde la conclusión de la guerra del Chaco hasta el golpe de Estado de 9 de abril de 1952</dc:title>
+        <dc:date>2006</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Rol del Ejército de Bolivia en la historia política</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2526">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mendoza Aruquipa</foaf:surname>
+                        <foaf:givenName>Germán</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:title>Comunidades y conflictos sociales en la provincia Omasuyos, Laja 1840-1900</dc:title>
+        <dc:date>2007</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Comunidades y conflictos sociales en la provincia Omasuyos</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2527">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Arteaga Fernández</foaf:surname>
+                        <foaf:givenName>Fernando</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:title>Creación, desarrollo y transferencias de las bibliotecas de La Paz. Un enfoque histórico (siglo XIX)</dc:title>
+        <dc:date>2007</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Creación, desarrollo y transferencia de las bibliotecas</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2528">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Torres Bautista</foaf:surname>
+                        <foaf:givenName>Juan Carlos</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Historia de la caricatura política en Bolivia (1961-1971). El pensamiento político de Pepe Luque y Cascabel</dc:title>
+        <dc:date>2007</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Historia de la caricatura política en Bolivia</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2529">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gómez-García Krust</foaf:surname>
+                        <foaf:givenName>Vannya</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:subject>Siglo XVI</dc:subject>
+        <dc:subject>Siglo XVII</dc:subject>
+        <dc:subject>Siglo XVIII</dc:subject>
+        <dc:subject>siglo XV</dc:subject>
+        <dc:title>Rubro y visiones de exploradores, conquistadores y misioneros hacia las tierras bajas de los mosetenes (s. XV - s. XIX)</dc:title>
+        <dc:date>2007</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Rubro y visiones de exploradores, conquistadores y misioneros</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2530">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Illatarco Peñarrieta</foaf:surname>
+                        <foaf:givenName>Galo Jaime</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>La canción popular de protesta en La Paz, 1965-1990. Una manera de imaginar la nueva sociedad</dc:title>
+        <dc:date>2007</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>La canción popular de protesta en La Paz</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2531">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Apaza Condori</foaf:surname>
+                        <foaf:givenName>Jorge</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>De ciegos, sordomudos a personas con necesidades especiales. desarrollo histórico del Instituto Boliviano de la Ceguera (1957-1990)</dc:title>
+        <dc:date>2008</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>De ciegos, sordomudos a personas con necesidades especiales</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2532">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zalles Cuestas</foaf:surname>
+                        <foaf:givenName>Solange Leonor</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Los poderes locales y sus influencias en el desarrollo regional . Los yungas paceños entre 1932 y 1952</dc:title>
+        <dc:date>2008</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Los poderes locales y sus influencias en el desarrollo regional</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2533">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Balderrama Guzmán</foaf:surname>
+                        <foaf:givenName>Alvaro Eduardo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>La historia como sistema estructural para la conservación y uso social del patrimonio urbano y arquitectónico. El caso de la ciudad de Cochabamba</dc:title>
+        <dc:date>2008</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>La historia como sistema estructural para la conservación</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2534">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bacherer Debreczeni</foaf:surname>
+                        <foaf:givenName>Susana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Origen y evolución de la izquierda. El Partido Obrero Revolucionario en la historia política de Bolivia (1935-1952)</dc:title>
+        <dc:date>2009</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Origen y evolución de la izquierda</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2535">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Carvajal Vargas</foaf:surname>
+                        <foaf:givenName>Rolando</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XVI</dc:subject>
+        <dc:title>La ruta de Alonso de Mendoza y la cuádruple entrada de 1538 a los Abiscas, Chunchos, Mojos y Chiriguanaes. Carabaya, Chuquiabo 1520-1570</dc:title>
+        <dc:date>2009</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>La ruta de Alonso de Mendoza</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2536">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chávez García</foaf:surname>
+                        <foaf:givenName>Randy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Los primeros miembros de la Iglesia de Jesucristo de los Santos de los Últimos Días y sus primeros logros en Bolivia</dc:title>
+        <dc:date>2009</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Los primeros miembros de la Iglesia de Jesucristo de los Santos de los Últimos Días</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2537">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mamani Siñani</foaf:surname>
+                        <foaf:givenName>Roger Leonardo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:title>Caudillos y participación indígena en la División los Valles de La Paz y Cochabamba durante la guerra de la Independencia, 1812-1817</dc:title>
+        <dc:date>2009</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Caudillos y participación indígena</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2538">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rodríguez Laguna</foaf:surname>
+                        <foaf:givenName>Mariela</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XVI</dc:subject>
+        <dc:title>Entre &quot;bárbaros&quot; y &quot;civilizados&quot;. el afianzamiento de una frontera colonial. Chichas, siglo XVI</dc:title>
+        <dc:date>2011</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Entre &quot;bárbaros&quot; y &quot;civilizados&quot;</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2544">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Camacho Silva</foaf:surname>
+                        <foaf:givenName>Iván Roberto</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>El contexto ideológico político predominante en la creación de la primera Constitución social de 1938</dc:title>
+        <dc:date>2011</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>El contexto ideológico político</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2545">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Quispe Chambi</foaf:surname>
+                        <foaf:givenName>Rosmery</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>CONDEPA: la emergencia del neopopulismo a fines del siglo XX en la ciudad de La Paz</dc:title>
+        <dc:date>2011</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>CONDEPA</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2546">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pérez Miranda</foaf:surname>
+                        <foaf:givenName>Leslye Alejandra</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>La construcción del civismo y los héroes de la Guerra del Pacífico a través de la prensa paceña (1879-1979)</dc:title>
+        <dc:date>2011</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>La construcción del civismo y los héroes</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2547">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ramos Flores</foaf:surname>
+                        <foaf:givenName>Dámaso Marcelo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>El proceso del fútbol en el Departamento de La Paz (1900-1950)</dc:title>
+        <dc:date>2011</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>El proceso del fútbol</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2548">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guerreros Burgoa</foaf:surname>
+                        <foaf:givenName>Johnny Tito</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Los tres rostros del Gran Poder: de la festividad a la fiesta popular en la ciudad de La Paz en el siglo XX</dc:title>
+        <dc:date>2011</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Los tres rostros del Gran Poder</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2549">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tenorio Levandro</foaf:surname>
+                        <foaf:givenName>Carlos Antonio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Orígenes de las firmas del industrial minero Mauricio Hochschild Hirsch en Bolivia: crecimiento económico en Potosí (1921-1939)</dc:title>
+        <dc:date>2011</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Orígenes de las firmas del industrial minero Mauricio Hochschild</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2550">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Arroyo Dávila</foaf:surname>
+                        <foaf:givenName>Juan Miguel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:title>Historia de la prensa paceña de 1829-1839: a partir del periódico El Iris de La Paz, en la ciudad de La Paz</dc:title>
+        <dc:date>2011</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Historia de la prensa paceña de 1829-1839</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2551">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Murillo Mendoza</foaf:surname>
+                        <foaf:givenName>Max Raúl</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:subject>Siglo XVIII</dc:subject>
+        <dc:title>La montaña de los Yuracarés en la experiencia franciscana (1773-1805)</dc:title>
+        <dc:date>2011</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>La montaña de los Yuracarés</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2552">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chui Mena</foaf:surname>
+                        <foaf:givenName>Raúl</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:subject>Siglo XXI</dc:subject>
+        <dc:title>Una aproximación histórica a la justicia indígena originaria en el Ayllu Yaru del Cantón Conchacollo de la marka San Andrés de Machaca, 1952-2002</dc:title>
+        <dc:date>2012</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Una aproximación histórica a la justicia indígena originaria</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2553">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rodríguez Leyton</foaf:surname>
+                        <foaf:givenName>Juan Nivardo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>El anarquismo individualista en Bolivia, 1918-1924 en las publicaciones: Renacimiento altoperuano (Sucre, 1918), Arte y Trabajo (Cochabamba, 1912-1924)</dc:title>
+        <dc:date>2012</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>El anarquismo individualista en Bolivia</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2554">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Callisaya Uchani</foaf:surname>
+                        <foaf:givenName>Magdalena</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Influencia de la logística boliviana en la Guerra del Chaco (1932-1935)</dc:title>
+        <dc:date>2012</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Influencia de la logística boliviana en la Guerra del Chaco</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2555">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Adriázola Guillén</foaf:surname>
+                        <foaf:givenName>María Teresa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:title>La niña del siglo XIX. El objeto cultural como documento de análisis y testimonio histórico</dc:title>
+        <dc:date>2012</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>La niña del siglo XIX</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2556">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Salluco Sirpa</foaf:surname>
+                        <foaf:givenName>Teodoro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>La explotación del cobre en el distrito minero de Corocoro a principios del siglo XX (1900-1930)</dc:title>
+        <dc:date>2012</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>La explotación del cobre en el distrito minero de Corocoro</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2557">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Quispe Huanca</foaf:surname>
+                        <foaf:givenName>Felipe</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>El Primer Congreso Indigenal de 1945</dc:title>
+        <dc:date>2012</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>El Primer Congreso Indigenal de 1945</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2558">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cazas Aruquipa</foaf:surname>
+                        <foaf:givenName>Luisa Andrea</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Contradicciones de discursos y realidades con respecto al trabajo. Chicheras en la ciudad de Oruro, 1900-1930</dc:title>
+        <dc:date>2013</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Chicheras en la ciudad de Oruro</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2559">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Espino Mamani</foaf:surname>
+                        <foaf:givenName>Humberto</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:subject>Siglo XXI</dc:subject>
+        <dc:title>La explotación de la piedra caliza en el cerro Catavi. industria, mercado laboral y economía campesina en el altiplano norte de La Paz (1985-2005)</dc:title>
+        <dc:date>2013</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>La explotación de la piedra caliza</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2560">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vargas Aramayo</foaf:surname>
+                        <foaf:givenName>Rómulo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>La Corporación Boliviana de Fomento y la inversión de capitales en la agroindustria azucarera del oriente. El caso del Ingenio Azucarero Guabirá, 1971-1978</dc:title>
+        <dc:date>2013</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>La Corporación Boliviana de Fomento</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2561">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zurita Zabaleta</foaf:surname>
+                        <foaf:givenName>Juan Carlos</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>La Misión Militar Alemana y el Ejército boliviano, 1911-1914</dc:title>
+        <dc:date>2013</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>La Misión militar Alemana y el Ejército boliviano</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2562">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Flores Montalvo</foaf:surname>
+                        <foaf:givenName>Yevgueni</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:title>El mercado de trabajo en la ciudad de Potosí de 1825-1841</dc:title>
+        <dc:date>2014</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>El mercado de trabajo en la ciudad de Potosí</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2563">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zambrana Lara</foaf:surname>
+                        <foaf:givenName>Carlos</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>&quot;Empuñar la palabra como fusil&quot;. Discurso político del semanario popular &quot;Aquí&quot; a favor de la apertura democrática en Bolivia, 1979-1980</dc:title>
+        <dc:date>2014</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>&quot;Empuñar la palabra como fusil&quot;</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2564">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chávez</foaf:surname>
+                        <foaf:givenName>Dercy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:subject>Siglo XXI</dc:subject>
+        <dc:title>Historia de una economía local: Las cooperativas mineras en la explotación del oro en la región de Mapiri del Departamento de La Paz (1980-2010)</dc:title>
+        <dc:date>2014</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Historia de una economía local</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2565">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ticona Ramos</foaf:surname>
+                        <foaf:givenName>Eliza</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Los directores, visitadores: Orientadores y Fiscalizadores de la Educación Primaria Rural en las Provincias de los Departamentos de Chuquisaca, Oruro y Potosí, 1940</dc:title>
+        <dc:date>2014</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Los directores, visitadores</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2566">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mamani Mamani</foaf:surname>
+                        <foaf:givenName>Lupe Jimena</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Mujeres, madres, esposas y profesoras. Rol de las mujeres según las políticas educativas del periodo liberal en Bolivia (1899-1920)</dc:title>
+        <dc:date>2014</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Mujeres, madres, esposas y profesoras</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2569">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Urday Esslinger</foaf:surname>
+                        <foaf:givenName>Heidi Matilde Carolina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Empréstitos e inversiones. Las relaciones económicas entre Bolivia y Estados Unidos, 1900-1930</dc:title>
+        <dc:date>2000</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Empréstitos e inversiones</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2570">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mendoza Gallardo</foaf:surname>
+                        <foaf:givenName>María Rebeca</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:title>Análisis de la misión de Juan de la Cruz Benavente ante el gobierno de Chile, 1853-1855</dc:title>
+        <dc:date>2000</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Análisis de la misión de Juan de la Cruz Benavente</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2583">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Quisbert Mamani</foaf:surname>
+                        <foaf:givenName>Katerin Estefany</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Soux de Wayar</foaf:surname>
+                        <foaf:givenName>María Luisa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:subject>Siglo XVII</dc:subject>
+        <dc:subject>Siglo XVIII</dc:subject>
+        <dc:title>La mujer en la servidumbre doméstica en La Paz durante la etapa colonial (1679-1825)</dc:title>
+        <dc:date>2018</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>La mujer en la servidumbre doméstica en La Paz</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2584">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rodríguez Huarachi</foaf:surname>
+                        <foaf:givenName>Lizeth Cecilia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fernández Quisbert</foaf:surname>
+                        <foaf:givenName>Ramiro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>El proceso de industrialización textil y sus formas de explotación de la mano de obra fabril en la ciudad de La Paz en los años 1980 al 2000</dc:title>
+        <dc:date>2018</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>El proceso de industrialización textil</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2585">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Coronel Mamani</foaf:surname>
+                        <foaf:givenName>Minerva Edith</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ticona Alejo</foaf:surname>
+                        <foaf:givenName>Esteban</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>1978: El indio a la hora del indianismo</dc:title>
+        <dc:date>2018</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>1978: El indio a la hora del indianismo</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2586">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sahua Uturunco</foaf:surname>
+                        <foaf:givenName>Abraham Antonio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Calderón Jemio</foaf:surname>
+                        <foaf:givenName>Raúl</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>“El Diario” y “Presencia” en el gobierno de la UDP (1982-1985)</dc:title>
+        <dc:date>2019</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>“El Diario” y “Presencia” en el gobierno de la UDP</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2589">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ugarte Mariaca</foaf:surname>
+                        <foaf:givenName>Danny Edwards</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Soux de Wayar</foaf:surname>
+                        <foaf:givenName>María Luisa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:title>El debate de la ciudadanía indígena antes y después de la Independencia</dc:title>
+        <dc:date>2019</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>El debate de la ciudadanía indígena</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2591">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sánchez Cari</foaf:surname>
+                        <foaf:givenName>Simón Amadón</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Soux de Wayar</foaf:surname>
+                        <foaf:givenName>María Luisa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:title>El movimiento insurreccional de Tarija durante el proceso de la independencia, (1810-1825)</dc:title>
+        <dc:date>2018</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>El movimiento insurreccional de Tarija</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2596">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Poma Caba</foaf:surname>
+                        <foaf:givenName>Elizabeth</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jáuregui Cordero</foaf:surname>
+                        <foaf:givenName>Juan Heriberto</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Rosa Isabel Agramonte Moraleda, cinco generaciones de terratenientes de descendencia mestiza, 1860-1969. Entre la acumulación, administración, inversión y el comercio</dc:title>
+        <dc:date>2020</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Rosa Isabel Agramonte Moraleda</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2598">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Choque Quispe</foaf:surname>
+                        <foaf:givenName>Miguel Ángel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chuquimia Bonifaz</foaf:surname>
+                        <foaf:givenName>Fernando</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>La hoja de coca en Bolivia en el periodo neoliberal 1985 al 2002 (debates y políticas públicas)</dc:title>
+        <dc:date>2020</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>La hoja de coca en Bolivia en el periodo neoliberal</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2599">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Quispe Cruz</foaf:surname>
+                        <foaf:givenName>Alan Álvaro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Oporto Ordóñez</foaf:surname>
+                        <foaf:givenName>Luis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Historia del Centro Minero de Araca 1900-1951</dc:title>
+        <dc:date>2020</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Historia del Centro Minero de Araca</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2606">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mamani Quispe</foaf:surname>
+                        <foaf:givenName>Wayanay</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jauregui Cordero</foaf:surname>
+                        <foaf:givenName>Juan Heriberto</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>De Pongo a Miliciano: Expropiación y transformación del indio y la tenencia de la tierra en Tohopoco (Pacajes 1900-1964)</dc:title>
+        <dc:date>2021</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>De Pongo a Miliciano</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2607">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gutiérrez Colque</foaf:surname>
+                        <foaf:givenName>Wayra</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fernández Quisbert</foaf:surname>
+                        <foaf:givenName>Ramiro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:subject>Siglo XVII</dc:subject>
+        <dc:title>Rebeliones de indios cocaleros de Larecaja, siglo XVII: Songo 1623-1665</dc:title>
+        <dc:date>2021</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Rebeliones de indios cocaleros de Larecaja</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2617">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chavez Clavijo</foaf:surname>
+                        <foaf:givenName>Gabriela</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:title>La manufactura textil en Bolivia: unidades de producción, materia prima, mano de obra, mercado y consumo, 1825-1845</dc:title>
+        <dc:date>2018</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>La manufactura textil en Bolivia</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2618">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cocaure Mamani</foaf:surname>
+                        <foaf:givenName>Percy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Violencia estatal en La Paz el gobierno del sexenio 1946-1952</dc:title>
+        <dc:date>2018</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Violencia estatal en La Paz</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2619">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bailey Rueda</foaf:surname>
+                        <foaf:givenName>Carla Scarlett</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XVII</dc:subject>
+        <dc:subject>Siglo XVIII</dc:subject>
+        <dc:title>La presencia franciscana en La Paz : simbolismos y pueblos de indios, siglos XVII – XVIII</dc:title>
+        <dc:date>2018</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>La presencia franciscana en La Paz</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2620">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Machaca Mamani</foaf:surname>
+                        <foaf:givenName>Victor Hugo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:title>El proceso de elaboración de los primeros mapas oficiales de Bolivia como parte fundamental de la política del estado para conocer el territorio (1842-1859)</dc:title>
+        <dc:date>2018</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>El proceso de elaboración de los primeros mapas oficiales de Bolivia</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2621">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Deuer Deuer</foaf:surname>
+                        <foaf:givenName>Pastor Rafael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:title>Ni tan caudillos, ni tan bárbaros: política y economía en la presidencia del General Pedro Agustín Morales Hernández, 1871–1872</dc:title>
+        <dc:date>2018</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Ni tan caudillos, ni tan bárbaros</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2622">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Valdivia Gallardo</foaf:surname>
+                        <foaf:givenName>Bruno</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:title>La producción de azucarera en la provincia Cercado de Santa Cruz (1825 – 1880)</dc:title>
+        <dc:date>2018</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>La producción azucarera</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2623">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>López Quispe</foaf:surname>
+                        <foaf:givenName>Daniel Rodrigo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>La capitalización de la Empresa Nacional de Ferrocarriles (1993-1997)</dc:title>
+        <dc:date>2018</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>La capitalización de ENFE</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2624">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Orsag Molina</foaf:surname>
+                        <foaf:givenName>José Octavio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XIX</dc:subject>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Civilización y barbarie. los pueblos no reducidos en el auge de la goma. Bolivia 1880-1912</dc:title>
+        <dc:date>2017</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Civilización y barbarie</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2625">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gorriti</foaf:surname>
+                        <foaf:givenName>Susana Zulema</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XVII</dc:subject>
+        <dc:subject>Siglo XVIII</dc:subject>
+        <dc:title>Historia de un pueblo de repartimiento Curahuara de Pacajes en la colonia siglos XVII-XVIII</dc:title>
+        <dc:date>2017</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Historia de un pueblo de repartimiento</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2626">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chambi Ocaña</foaf:surname>
+                        <foaf:givenName>Airton Laureano</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Los prisioneros bolivianos en la Guerra del Chaco y su relevancia en la Post guerra. 1932 – 1946</dc:title>
+        <dc:date>2017</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Los prisioneros bolivianos en la Guerra del Chaco</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2628">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Medrano Zegarra</foaf:surname>
+                        <foaf:givenName>Daniela Nathalie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Soux de Wayar</foaf:surname>
+                        <foaf:givenName>María Luisa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>Biografía de Benedicto Goytia: Miembro de la oligarquía paceña en un contexto señorial (1851-1925)</dc:title>
+        <dc:date>2016</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Biografía de Benedicto Goytia</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2629">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chipana Lovera</foaf:surname>
+                        <foaf:givenName>Gaby</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fernández Quisbert</foaf:surname>
+                        <foaf:givenName>Ramiro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>La política caminera del modelo de capitalismo de estado de 1952-1985</dc:title>
+        <dc:date>2017</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>La política caminera</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2630">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mejillones Quispe</foaf:surname>
+                        <foaf:givenName>Guillermo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Calderón Jemio</foaf:surname>
+                        <foaf:givenName>Raúl</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>El servicio de inteligencia entre 1927-1938: el espionaje, contraespionaje de Bolivia durante la guerra del Chaco</dc:title>
+        <dc:date>2017</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>El servicio de inteligencia</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2631">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mamani Flores</foaf:surname>
+                        <foaf:givenName>Zenón</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Calderón Jemio</foaf:surname>
+                        <foaf:givenName>Raúl</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>Rehabilitación de los ferrocarriles bolivianos: crisis y nacionalización 1956-1968</dc:title>
+        <dc:date>2017</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Rehabilitación de los ferrocarriles</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2632">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Verdueta Quisbert</foaf:surname>
+                        <foaf:givenName>Juan Marcelo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fernández Quisbert</foaf:surname>
+                        <foaf:givenName>Ramiro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>La UMSA en la dictadura de Hugo Banzer Suarez (1971-1976)</dc:title>
+        <dc:date>2017</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>La UMSA en la dictadura</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2633">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Soto Villegas</foaf:surname>
+                        <foaf:givenName>Gabriel Mauricio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>La homogeneidad cultural desde el punto de vista del liberalismo (1898 - 1920)</dc:title>
+        <dc:date>2016</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>La homogeneidad cultural</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2634">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Marca Morales</foaf:surname>
+                        <foaf:givenName>Gervacia Santusa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Fotógrafos en la ciudad de La Paz 1840-1899</dc:title>
+        <dc:date>2015</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Fotógrafos en la ciudad de La Paz</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2635">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bello Gómez</foaf:surname>
+                        <foaf:givenName>Giovanni Enrique</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>La orquesta jazz entre vanguardia y cosmopolitismo cholo, la paz 1925-1945</dc:title>
+        <dc:date>2015</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>La orquesta jazz</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2636">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lima Huanca</foaf:surname>
+                        <foaf:givenName>Daniel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Situación social económica y las huellas filantrópicas del acaudalado vecino José Ramón de Loayza. Benefactor, humanitario y patriota a principios del siglo XIX</dc:title>
+        <dc:date>2014</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Situación social económica y las huellas filantrópicas del acaudalado vecino José Ramón de Loayza</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2637">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Uturunco Mendoza</foaf:surname>
+                        <foaf:givenName>Ireneo Eloy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>El concepto tiempo histórico y su comprensión en los trabajos de tesis de la Carrera de Historia de la UMSA (1975-2012)</dc:title>
+        <dc:date>2014</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>El concepto tiempo histórico</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2638">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Flores Cori</foaf:surname>
+                        <foaf:givenName>Janeth Dani</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>La transformación del casco urbano central de la ciudad de La Paz de 1900-1930</dc:title>
+        <dc:date>2014</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>La transformación del casco urbano</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2639">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vega Chuquimia</foaf:surname>
+                        <foaf:givenName>Magaly A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>La saya en Tocaña como una forma de reivindicación de la memoria histórica del pueblo afro-boliviano</dc:title>
+        <dc:date>2014</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>La saya de Tocaña</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2640">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cruz Quilla</foaf:surname>
+                        <foaf:givenName>Edwin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Explotación y producción del Zinc en la Mina Matilde de la provincia Camacho del departamento de La Paz, 1971-1985</dc:title>
+        <dc:date>2014</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Explotación y producción del Zinc</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2641">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cazu Loayza</foaf:surname>
+                        <foaf:givenName>Alvaro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Sistema de la tenencia de tierras en el proceso de la Ley de exvinculación en el cantón Combaya entre 1880-1899</dc:title>
+        <dc:date>2015</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Sistema de tenencia de tierras</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2642">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rojas Padilla</foaf:surname>
+                        <foaf:givenName>Jhosmane Jesús</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Cuerpo nacional de carabineros y policías, 1952-1956</dc:title>
+        <dc:date>2015</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Cuerpo nacional de carabineros</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2643">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mujica Blanco</foaf:surname>
+                        <foaf:givenName>Felicidad</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Dimensión étnica y de clase del movimiento indígena originario del área andina durante el sexenio 1946-1952</dc:title>
+        <dc:date>2015</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Dimensión étnica y de clase</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2644">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Arana Santander</foaf:surname>
+                        <foaf:givenName>Ely Gloria</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>La modernización minera en Potosí, 1872-1900</dc:title>
+        <dc:date>2015</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>La modernización minera en Potosí</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2645">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Paz Nomey</foaf:surname>
+                        <foaf:givenName>José Luis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Tapuymiri o &quot;chiquitos&quot;: los procesos socioeconómicos culturales y cambios con la conquista espiritual (siglos XVI-XVIII)</dc:title>
+        <dc:date>2015</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Tapuymiri o &quot;chiquitos&quot;</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2646">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Maldonado Pérez</foaf:surname>
+                        <foaf:givenName>Nancy Hancina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Imaginario y representación de los recursos naturales en el escudo Boívar/Bolivia de 1825 y 1826</dc:title>
+        <dc:date>2015</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Imaginario y representación de los recursos naturales</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2647">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mita Luna</foaf:surname>
+                        <foaf:givenName>Jorge Luis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Conformación y consolidación del área comercial moderno de la ciudad de La Paz, 1952-1994</dc:title>
+        <dc:date>2015</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Conformación y consolidación del área comercial</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2653">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Grados Gorriti</foaf:surname>
+                        <foaf:givenName>Susana Belén</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Conflictos sobre tierras y problemas sociales, Calacoto, provincia Pacajes, 1800-1750</dc:title>
+        <dc:date>2018</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Conflctos sobre tierras</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_3391">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gutiérrez Conde</foaf:surname>
+                        <foaf:givenName>Richard Nelson</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Calderón Jemio</foaf:surname>
+                        <foaf:givenName>Raúl</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:subject>Siglo XX</dc:subject>
+        <dc:title>Reforma Agraria previa en la región lacustre del Titiqaqa, Hacienda de &quot;Wat'axata&quot;, Provincia Omasuyus del Departamento de La Paz, 1900-1945</dc:title>
+        <dc:date>2021</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Reforma Agraria previa en la región lacustre</z:shortTitle>
+        <z:type>Tesis de Licenciatura</z:type>
+    </bib:Thesis>
+</rdf:RDF>

@@ -1,0 +1,728 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:bib="http://purl.org/net/biblio#">
+    <bib:Thesis rdf:about="#item_2567">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mogro-Moreno Mercado</foaf:surname>
+                        <foaf:givenName>María Olga Alicia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Reglamento del Sistema de Archivo del Banco Central de Bolivia</dc:title>
+        <dc:date>2008</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Reglamento del Sistema de Archivo del Banco Central de Bolivia</z:shortTitle>
+        <z:type>Trabajo Dirigido de Licenciatura en Historia</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2568">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aliaga Maldonado</foaf:surname>
+                        <foaf:givenName>Danny Susan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Reglamento de Administración Documental y Archivos de Historias Clínicas de la Caja de salud de la Banca Privada</dc:title>
+        <dc:date>2011</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Reglamento de Administración Documental y Archivos de Historias Clínicas</z:shortTitle>
+        <z:type>Trabajo Dirigido de Licenciatura en Historia</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2571">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Viaña Armijo</foaf:surname>
+                        <foaf:givenName>José Francisco</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Manual de organización de archivos para organizar los archivos de la Contraloría General de la República</dc:title>
+        <dc:date>2000</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Mujeres, madres, esposas y profesoras</z:shortTitle>
+        <z:type>Trabajo Dirigido de Licenciatura en Historia</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2574">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Amusquivar Caballero</foaf:surname>
+                        <foaf:givenName>Wilma</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>El modelo educativo de núcleo. Una aproximación a la experiencia educativa del sistema núcleo-seccionales (1930-1940)</dc:title>
+        <dc:date>2006</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>El modelo educativo de núcleo</z:shortTitle>
+        <z:type>Trabajo Dirigido de Licenciatura en Historia</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2587">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ticona Foronda</foaf:surname>
+                        <foaf:givenName>Edson Ivan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cuba Quispe</foaf:surname>
+                        <foaf:givenName>Simón</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>Implementación de tratamiento archivístico sub fondo documental provincia Camacho (expedientes criminales 1879 - 1920)</dc:title>
+        <dc:date>2019</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Implementación de tratamiento archivístico</z:shortTitle>
+        <z:type>Trabajo Dirigido de Licenciatura en Historia</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2588">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Huanca Peláez</foaf:surname>
+                        <foaf:givenName>Beatriz Claudia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aillón Soria</foaf:surname>
+                        <foaf:givenName>Esther</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>Tratamiento archivístico, inventario y catálogo del subfondo juzgado de partido Sorata (1910-1913), provincia Larecaja, del archivo de La Paz</dc:title>
+        <dc:date>2019</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Tratamiento archivístico, inventario y catálogo</z:shortTitle>
+        <z:type>Trabajo Dirigido de Licenciatura en Historia</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2590">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pacheco Cerezo</foaf:surname>
+                        <foaf:givenName>Miguel Orlando</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fernández Quisbert</foaf:surname>
+                        <foaf:givenName>Ramiro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>Elaboración de un Inventario detallado del Sub - Fondo Alcaldía Corocoro del Fondo Provincial - Pacajes (ALP)</dc:title>
+        <dc:date>2019</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Elaboración de un inventario detallado</z:shortTitle>
+        <z:type>Trabajo Dirigido de Licenciatura en Historia</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2593">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Copa Laura</foaf:surname>
+                        <foaf:givenName>Filomena</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aillón Soria</foaf:surname>
+                        <foaf:givenName>Esther</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>Archivo de La Paz: tratamiento archivístico para la elaboración del inventario y catálogo del subfondo juzgado de partido Sorata, del fondo provincial Larecaja, 1937 – 1975</dc:title>
+        <dc:date>2019</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Archivo de La Paz: tratamiento archivístico para la elaboración del inventario y catálogo del subfondo juzgado de partido Sorata</z:shortTitle>
+        <z:type>Trabajo Dirigido de Licenciatura en Historia</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2594">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Flores Cerezo</foaf:surname>
+                        <foaf:givenName>Luz Elida</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fernández Quisbert</foaf:surname>
+                        <foaf:givenName>Ramiro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>Tratamiento archivístico del fondo provincial Larecaja sub- fondo alcaldía municipal de Sorata 1831-1986 del Archivo La Paz</dc:title>
+        <dc:date>2019</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Tratamiento archivístico del fondo provincial Larecaja</z:shortTitle>
+        <z:type>Trabajo Dirigido de Licenciatura en Historia</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2595">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Colque Guarachi</foaf:surname>
+                        <foaf:givenName>Verónica</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aillón Soria</foaf:surname>
+                        <foaf:givenName>Esther</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>Tratamiento archivístico y elaboración de inventario y catálogo del subfondo juzgado de partido Sorata de la provincia Larecaja, en el archivo de La Paz, 1919 - 1936</dc:title>
+        <dc:date>2019</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Tratamiento archivístico y elaboración de inventario y catálogo del subfondo juzgado de partido Sorata</z:shortTitle>
+        <z:type>Trabajo Dirigido de Licenciatura en Historia</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2603">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Condori Marquera</foaf:surname>
+                        <foaf:givenName>Rocio Sonia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aillón Soria</foaf:surname>
+                        <foaf:givenName>Esther</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>Tratamiento archivístico, inventario y catalogación de los expedientes judiciales del subfondo juzgado de partido Sorata de la provincia Larecaja, en el Archivo de La Paz, 1906-1909</dc:title>
+        <dc:date>2021</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Tratamietno archivístico, inventario y catalogación</z:shortTitle>
+        <z:type>Trabajo Dirigido de Licenciatura en Historia</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2604">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Casas Yujra</foaf:surname>
+                        <foaf:givenName>Magda Judith</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cuba Quispe</foaf:surname>
+                        <foaf:givenName>Simón</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>Implementación del tratamiento archivístico sub fondo documental Provincia Camacho (Expedientes criminales 1948-1987)</dc:title>
+        <dc:date>2021</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Implementación del tratamiento archivístico</z:shortTitle>
+        <z:type>Trabajo Dirigido de Licenciatura en Historia</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2605">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Peralta Troncoso</foaf:surname>
+                        <foaf:givenName>Jesús Danilo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aillón Soria</foaf:surname>
+                        <foaf:givenName>Esther</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>Proceso de ordenación, sistematización y catalogación del Fondo Provincial Larecaja, Sub Fondo Juzagado de Partido Sorata del Archivo de La Paz (1914-1918)</dc:title>
+        <dc:date>2021</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Proceso de ordenación, sistematización y catalogación</z:shortTitle>
+        <z:type>Trabajo Dirigido de Licenciatura en Historia</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2654">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vino Vino</foaf:surname>
+                        <foaf:givenName>Daysi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Medinaceli</foaf:surname>
+                        <foaf:givenName>Ximena</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>Implementación del tratamiento archivístico y realización de inventario del Fondo Provincial Pacajes - Sub Fondo: Juzgados, en el ALP, 1884-1905</dc:title>
+        <dc:date>2021</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Implementación del tratamiento archivístico</z:shortTitle>
+        <z:type>Trabajo Dirigido de Licenciatura en Historia</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2664">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>López Choque</foaf:surname>
+                        <foaf:givenName>Susi Raquel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cuba Quispe</foaf:surname>
+                        <foaf:givenName>Simón</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>Aplicación del tratamiento archivístico, Subo Fondo documental Provincia Camacho (Expedientes criminales, 1936-1947)</dc:title>
+        <dc:date>2021</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Aplicación del tratamiento archivístico</z:shortTitle>
+        <z:type>Trabajo Dirigido de Licenciatura en Historia</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2787">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>García Frías</foaf:surname>
+                        <foaf:givenName>Ana Valentina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Medinaceli</foaf:surname>
+                        <foaf:givenName>Ximena</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>Clasificación, ordenamiento e inventario del Fondo Documental de la Provincia Pacajes 1925-1946</dc:title>
+        <dc:date>2021</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Clasificación, ordenamiento e inventario</z:shortTitle>
+        <z:type>Trabajo Dirigido de Licenciatura en Historia</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2833">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Coarite Quispe</foaf:surname>
+                        <foaf:givenName>Miriam Roxana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Soux Muñoz-Reyes</foaf:surname>
+                        <foaf:givenName>María Luisa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>Implementación del tratamiento archivístico y elaboración de inventario del Subfondo Juzgado de la Provincia Pacajes en el Archivo de La Paz (1826-1883)</dc:title>
+        <dc:date>2021</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Implementación del tratamiento archivístico y elaboración de inventario</z:shortTitle>
+        <z:type>Trabajo Dirigido de Licenciatura en Historia</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_3439">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Quispe Callisaya</foaf:surname>
+                        <foaf:givenName>Maricela</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cuba Quispe</foaf:surname>
+                        <foaf:givenName>Simón</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>Organización documental del Sub Fondo &quot;Alcaldía de Corocoro 1916-1925&quot; de la provincia Pacajes (ALP)</dc:title>
+        <dc:date>2021</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Organización documental</z:shortTitle>
+        <z:type>Trabajo Dirigido de Licenciatura en Historia</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_3473">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zenteno Moscoso</foaf:surname>
+                        <foaf:givenName>Cristian Ariel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cuba Quispe</foaf:surname>
+                        <foaf:givenName>Simón</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>Organización documental del sub fondo &quot;Alcaldía de Corocoro 1936-1946&quot; de la provincia Pacajes (ALP)</dc:title>
+        <dc:date>2021</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Organización documental</z:shortTitle>
+        <z:type>Trabajo Dirigido de Licenciatura en Historia</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_3474">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Poma Ticona</foaf:surname>
+                        <foaf:givenName>Dayana Sinthia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cuba Quispe</foaf:surname>
+                        <foaf:givenName>Simón</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>Organización documental del sub fondo  Alcaldía de Corocoro 1947-1987 de la provincia Pacajes (ALP)</dc:title>
+        <dc:date>2021</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Organización documental</z:shortTitle>
+        <z:type>Trabajo Dirigido de Licenciatura en Historia</z:type>
+    </bib:Thesis>
+</rdf:RDF>

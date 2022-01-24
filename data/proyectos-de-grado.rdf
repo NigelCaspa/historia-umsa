@@ -1,0 +1,216 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:bib="http://purl.org/net/biblio#">
+    <bib:Thesis rdf:about="#item_2572">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Villegas Borjes</foaf:surname>
+                        <foaf:givenName>Iris América</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Archivo histórico de la provincia Sud Chichas</dc:title>
+        <dc:date>2003</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Archivo histórico de la provincia Sud Chichas</z:shortTitle>
+        <z:type>Proyecto de Grado de Licenciatura en Historia</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2573">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ramirez Simón</foaf:surname>
+                        <foaf:givenName>Rolando</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>El sistema nacional de archivos de la Adunana Nacional de Bolivia</dc:title>
+        <dc:date>2006</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>El sistema nacional de archivos de la Adunana Nacional de Bolivia</z:shortTitle>
+        <z:type>Proyecto de Grado de Licenciatura en Historia</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2592">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Silvestre Patzi</foaf:surname>
+                        <foaf:givenName>Magali</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chuquimia Bonifaz</foaf:surname>
+                        <foaf:givenName>Fernando</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>Manual de organización documental y gestión del archivo central de la administración de servicios portuarios – Bolivia ASP-B</dc:title>
+        <dc:date>2019</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Manual de organización documental y gestión del archivo central</z:shortTitle>
+        <z:type>Proyecto de Grado de Licenciatura en Historia</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2597">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alcázar Rivero</foaf:surname>
+                        <foaf:givenName>Gabriela del Rocío</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cuba Quispe</foaf:surname>
+                        <foaf:givenName>Simón</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>Manual de procedimientos de archivo de gestión de la Dirección General de Planificación, Ministerio de Obras Públicas, Servicios y Vivienda</dc:title>
+        <dc:date>2020</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Manual de procedimientos de archivo de gestión de la Dirección General de Planificación</z:shortTitle>
+        <z:type>Proyecto de Grado de Licenciatura en Historia</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2600">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Condori Quispe</foaf:surname>
+                        <foaf:givenName>Marco Antonio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aillón Soria</foaf:surname>
+                        <foaf:givenName>Esther</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>Propuesta de innovación de la enseñanza de la historia en estudiantes de sexto de secundaria en la Unidad Educativa Nacional de Ayo Ayo, departamento de La Paz</dc:title>
+        <dc:date>2020</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Propuesta de innovación de la enseñanza de la historia</z:shortTitle>
+        <z:type>Proyecto de Grado de Licenciatura en Historia</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_2601">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Huanca Rivero</foaf:surname>
+                        <foaf:givenName>Horacio Guery</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cuba Quispe</foaf:surname>
+                        <foaf:givenName>Simón</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>Manual de Organización Documental del Archivo Central de PRO – BOLIVIA</dc:title>
+        <dc:date>2021</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Manual de Organización Documental de Archivo</z:shortTitle>
+        <z:type>Proyecto de Grado de Licenciatura en Historia</z:type>
+    </bib:Thesis>
+</rdf:RDF>

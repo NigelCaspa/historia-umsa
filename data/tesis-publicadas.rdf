@@ -1,0 +1,1298 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/">
+    <bib:Book rdf:about="#item_1">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Colección Carrera de Historia-Tesis</dc:title>
+                <dc:identifier>2</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Instituto de Investigaciones Históricas / UMSA</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bello</foaf:surname>
+                        <foaf:givenName>Giovanni</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>La &quot;Orquesta Jazz&quot;: entre vanguardia y cosmopolitismo cholo. La Paz, 1925-1950</dc:title>
+        <dc:date>2019</dc:date>
+        <z:language>Spanish</z:language>
+        <z:numPages>190</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="#item_86">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Colección Carrera de Historia-Tesis</dc:title>
+                <dc:identifier>5</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Instituto de Investigaciones Históricas / UMSA</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chambi Ocaña</foaf:surname>
+                        <foaf:givenName>Airton Laureano</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Los prisioneros bolivianos en la guerra del Chaco y su relevancia en la post guerra. 1932-1946</dc:title>
+        <dc:date>2019</dc:date>
+        <z:numPages>261</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="#item_87">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Colección Carrera de Historia-Tesis</dc:title>
+                <dc:identifier>3</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Instituto de Investigaciones Históricas / UMSA</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Maldonado Pérez</foaf:surname>
+                        <foaf:givenName>Nancy Hancina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Imaginario y representación de los recursos naturales en el escudo de Bolívar/Bolivia de 1825 y 1826</dc:title>
+        <dc:date>2019</dc:date>
+        <z:language>Spanish</z:language>
+    </bib:Book>
+    <bib:Book rdf:about="#item_88">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Colección Carrera de Historia-Tesis</dc:title>
+                <dc:identifier>4</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Instituto de Investigaciones Históricas / UMSA</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Grados Gorriti</foaf:surname>
+                        <foaf:givenName>Susana Belén</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Conflictos de tierras y problemas sociales: Calacoto, provincia Pacajes, 1700-1750</dc:title>
+        <dc:date>2019</dc:date>
+        <z:language>Español</z:language>
+        <z:numPages>201</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="#item_89">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Colección Carrera de Historia-Tesis</dc:title>
+                <dc:identifier>1</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Instituto de Investigaciones Históricas / UMSA</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Orsag Molina</foaf:surname>
+                        <foaf:givenName>José Octavio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Civilización y barbarie. Los pueblos no reducidos durante el auge de la goma en Bolivia (1880-1912)</dc:title>
+        <dc:date>2018</dc:date>
+        <z:language>Español</z:language>
+        <z:shortTitle>Civilización y barbarie</z:shortTitle>
+        <z:numPages>206</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="#item_1065">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Casa Municipal de la Cultura Franz Tamayo</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ballivian Romero</foaf:surname>
+                        <foaf:givenName>Florencia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>José María Pérez de Urdininea, un general de la independencia, 1819-1825</dc:title>
+        <dc:date>1979</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>José María Pérez de Urdininea</z:shortTitle>
+        <z:libraryCatalog>Google Books</z:libraryCatalog>
+        <dc:description>Google-Books-ID: mZQKAQAAIAAJ</dc:description>
+        <z:numPages>112</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="#item_1068">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Instituto Boliviano de Cultura</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cajías de la Vega</foaf:surname>
+                        <foaf:givenName>Fernando</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>La Provincia de Atacama, 1825-1842</dc:title>
+        <dc:date>1975</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>La Provincia de Atacama</z:shortTitle>
+        <z:libraryCatalog>Google Books</z:libraryCatalog>
+        <dc:description>Google-Books-ID: fpAKAQAAIAAJ</dc:description>
+        <z:numPages>420</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="#item_1071">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Instituto Boliviano de Cultura</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gomez de Aranda</foaf:surname>
+                        <foaf:givenName>Blanca</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Casimiro Olañeta, diplomático, 1824-1839</dc:title>
+        <dc:date>1978</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Casimiro Olañeta</z:shortTitle>
+        <z:libraryCatalog>Google Books</z:libraryCatalog>
+        <dc:description>Google-Books-ID: 2okaAAAAYAAJ</dc:description>
+        <z:numPages>144</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="#item_1074">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Casa Municipal de la Cultura Franz Tamayo</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Portugal Ortiz</foaf:surname>
+                        <foaf:givenName>Max</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>La arqueología de la región del Río Beni</dc:title>
+        <dc:date>1978</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>La arqueología</z:shortTitle>
+        <z:libraryCatalog>Google Books</z:libraryCatalog>
+        <dc:description>Google-Books-ID: LlgaAAAAYAAJ</dc:description>
+        <z:numPages>156</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="#item_1077">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Organización de los Estados Americanos</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Arze Aguirre</foaf:surname>
+                        <foaf:givenName>René Danilo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Participación popular en la independencia de Bolivia</dc:title>
+        <dc:date>1979</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Participación popular</z:shortTitle>
+        <z:libraryCatalog>Google Books</z:libraryCatalog>
+        <dc:description>Google-Books-ID: 6SoeAAAAMAAJ</dc:description>
+        <z:numPages>284</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-99954-0-392-8">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Gobierno Municipal de La Paz</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Choque Canqui</foaf:surname>
+                        <foaf:givenName>Roberto</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Situación social y económica de los revolucionarios del 16 de julio de 1809 en La Paz</dc:title>
+        <dc:date>2008</dc:date>
+        <z:language>Spanish</z:language>
+        <z:shortTitle>Situación social y económica de los revolucionarios</z:shortTitle>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+        <dc:description>OCLC: 402576077</dc:description>
+        <dc:identifier>ISBN 978-99954-0-392-8</dc:identifier>
+    </bib:Book>
+    <bib:Book rdf:about="#item_1084">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>Colección Arzans y Vela</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>Instituto de Estudios Bolivianos / Facultad de Humanidades / UMSA / Embajada de España en Bolivia</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Money</foaf:surname>
+                        <foaf:givenName>Mary</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Los obrajes, el traje y el comercio de ropa en la Audiencia de Charcas</dc:title>
+        <dc:date>1983</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Los obrajes, el traje y el comercio</z:shortTitle>
+        <z:libraryCatalog>Google Books</z:libraryCatalog>
+        <dc:description>Google-Books-ID: DS5GAAAAYAAJ</dc:description>
+        <z:numPages>286</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="#item_1090">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>Colección Arzans y Vela</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Embajada de España</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Escobari de Querejazu</foaf:surname>
+                        <foaf:givenName>Laura</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Producción y comercio en el espacio sur andino en el siglo XVII. Cuzco - Potosi ,1650 - 1700</dc:title>
+        <dc:date>1985</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>Producción y comercio</z:shortTitle>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+        <dc:description>OCLC: 1069736163</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:211">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Ediciones Gráficas &quot;E.G.&quot;</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pérez Torrico</foaf:surname>
+                        <foaf:givenName>Alexis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>El Estado oligárquico y los empresarios de Atacama (1871-1878)</dc:title>
+        <dc:date>1994</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>El Estado oligárquico</z:shortTitle>
+        <dc:identifier>ISBN 211</dc:identifier>
+    </bib:Book>
+    <bib:Book rdf:about="#item_1098">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Misión de Cooperación Técnica Holandesa / Centro de Información para el Desarrollo</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Soux</foaf:surname>
+                        <foaf:givenName>María Luisa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>La coca liberal: producción y circulación a principios del siglo XX</dc:title>
+        <dc:date>1993</dc:date>
+        <z:language>esp</z:language>
+        <z:shortTitle>La coca liberal</z:shortTitle>
+        <dc:description>OCLC: 654480105</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="#item_1100">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Ediciones Aruwiyiri</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mamani Condori</foaf:surname>
+                        <foaf:givenName>Carlos B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Taraqu, 1866-1935: masacre, guerra y &quot;Renovacion&quot; en la biografia de Eduardo L. Nina Qhispi</dc:title>
+        <dc:date>1991</dc:date>
+        <z:shortTitle>Taraqu, 1866-1935</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="#item_2475">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Producciones CIMA</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gamarra Téllez</foaf:surname>
+                        <foaf:givenName>María del Pilar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Amazonía Norte de Bolivia: Economía gomera (1870-1940). Bases económicas de un poder regional. La casa Suárez</dc:title>
+        <dc:date>2007</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Amazonía Norte de Bolivia: Economía Gomera</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="#item_2480">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Sucre</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>FCBC / ABNB</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aillón Soria</foaf:surname>
+                        <foaf:givenName>Esther</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Vida, pasión y negocios. El propietario de la Vila &quot;San Pedro Mártir&quot; Indalecio Gonzáles de Socaca (1755-1820)</dc:title>
+        <dc:date>2009</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Vida, pasión y negocios</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="#item_2488">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Colombia</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Paramillo</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Inch Calvimonte</foaf:surname>
+                        <foaf:givenName>Marcel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Bibliotecas privadas y libros en venta en Potosí y su entorno, 1767-1822</dc:title>
+        <dc:date>2000</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Bibliotecas privadas y libros en venta en Potosí</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="#item_2490">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>CEPAA</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chuquimia Bonifaz</foaf:surname>
+                        <foaf:givenName>Fernando</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Las Sociedades de Socorro Mutuo y Beneficiencia en La Paz, 1883-1920</dc:title>
+        <dc:date>2013</dc:date>
+        <z:shortTitle>Las Sociedades de Socorro Mutuo y Beneficiencia en La Paz</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:Tiwanaku">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>C&amp;C Impresiones</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cusicanqui Olañeta</foaf:surname>
+                        <foaf:givenName>Vito</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Tiwanaku. Embrión geopolítico de los Andes</dc:title>
+        <dc:date>2004</dc:date>
+        <z:language>es</z:language>
+        <dc:identifier>ISBN Tiwanaku</dc:identifier>
+    </bib:Book>
+    <bib:Book rdf:about="#item_2511">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>CEPAA</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>García Guzmán</foaf:surname>
+                        <foaf:givenName>Anamaría</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Patrimonio y poder en la sociedad colonial. Las dotes de la ciudad de La Paz 1585-1650</dc:title>
+        <dc:date>2014</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Patrimonio y poder en la sociedad colonial</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:Caciques%20y%20hechiceros">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Plural Editores / Universidad de la Cordillera</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cortéz Rodríguez</foaf:surname>
+                        <foaf:givenName>Julio Jorge Francisco</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Caciques y hechiceros. Huellas en la historia de Mojos</dc:title>
+        <dc:date>2005</dc:date>
+        <z:language>es</z:language>
+        <dc:identifier>ISBN Caciques y hechiceros</dc:identifier>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-99954-1-088-9">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IFEA / Plural Editores</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Oporto Ordóñez</foaf:surname>
+                        <foaf:givenName>Luis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Uncía y Llallagua. Empresa minera capitalista y estrategias de apropiación real del espacio (1900-1935)</dc:title>
+        <dc:date>2007</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Uncía y Llallagua</z:shortTitle>
+        <dc:identifier>ISBN 978-99954-1-088-9</dc:identifier>
+    </bib:Book>
+    <bib:Book rdf:about="#item_2514">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>INSSB / UMSA</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Flores Quispe</foaf:surname>
+                        <foaf:givenName>Hugo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Colquiri, una mina de estaño 1900-1963</dc:title>
+        <dc:date>2003</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Colquiri</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="#item_2515">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>FUNDAPAC</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Montaño Durán</foaf:surname>
+                        <foaf:givenName>Patricia Beatriz</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Modesta Sanginés. Precursora de la equidad de género</dc:title>
+        <dc:date>2007</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Modesta Sanginés</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-99974-43-88-5">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>CEPAA</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rodríguez Quispe</foaf:surname>
+                        <foaf:givenName>Virgilio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Impacto de la modernidad en la ciudad de La Paz 1900-1920</dc:title>
+        <dc:date>2015</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Impacto de la modernidad en la ciudad de La Paz</z:shortTitle>
+        <dc:identifier>ISBN 978-99974-43-88-5</dc:identifier>
+        <z:numPages>260</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="#item_2517">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEB / UMSA</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Flores Jemio</foaf:surname>
+                        <foaf:givenName>Edson Daniel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Los combatientes bolivianos en el cerco y la batalla de Boquerón. Efectos psicosomáticos</dc:title>
+        <dc:date>2007</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Los combatientes bolivianos en el cero y la batalla de Boquerón</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="#item_2539">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Museo Nacional de Arte</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Roa Valderrama</foaf:surname>
+                        <foaf:givenName>Ronald</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Arturo Borda. Historia desconocida de un artista boliviano</dc:title>
+        <dc:date>2010</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Arturo Borda</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="#item_2540">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Gobierno Municipal de Laja</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mendoza Aruquipa</foaf:surname>
+                        <foaf:givenName>Germán</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Llaxa. Capital primigenia de la metrópoli paceña</dc:title>
+        <dc:date>2009</dc:date>
+        <z:shortTitle>Llaxa</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="#item_2541">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Sucre</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>ABNB</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zalles Cuestas</foaf:surname>
+                        <foaf:givenName>Solange Leonor</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Los caminos del poder local en Yungas. Coca, vialidad y fiscalidad (1932-1952)</dc:title>
+        <dc:date>2011</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Los caminos del poder local en Yungas</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="#item_2542">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Carrera de Historia / UMSA</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Carvajal Vargas</foaf:surname>
+                        <foaf:givenName>Rolando</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>La ruta de Alonso de Mendoza y la cuádruple entrada de 1538 a los Abiscas, Chunchos, Mojos y Chiriguanaes. Carabaya-Chuquiabo 1520-1570</dc:title>
+        <dc:date>2009</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>La ruta de Alonso de Mendoza</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="#item_2543">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Instituto de Estudios Bolivianos</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mamani Siñani</foaf:surname>
+                        <foaf:givenName>Roger Leonardo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>&quot;La división de los valles&quot;. Estructura militar, social y étncia de la guerrilla de La Paz y Cochabamba, 1814-1817</dc:title>
+        <dc:date>2010</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>&quot;La división de los valles&quot;</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="#item_2577">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Ministerio de Culturas y Turismo del Estado Plurinacional de Bolivia</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pérez Miranda</foaf:surname>
+                        <foaf:givenName>Leslye Alejandra</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>La construcción del civismo y los héroes de la Guerra del Pacífico a través de la prensa paceña (1879-1979)</dc:title>
+        <dc:date>2013</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>La construcción del civismo y los héroes de la Guerra del Pacífico</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="#item_2578">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>Colección Memoria Paceña</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Concejo Municipal de La Paz</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guerrero Burgoa</foaf:surname>
+                        <foaf:givenName>Johnny Tito</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Los tres rostros del Gran Poder: de la festividad a la fiesta</dc:title>
+        <dc:date>2012</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Los tres rostros del Gran Poder</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:9789997407788">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Colección Carrera de Historia-Tesis</dc:title>
+                <dc:identifier>6</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Círculo Israelita / Carrera de Historia / FHCE-UMSA</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tenorio Levandro</foaf:surname>
+                        <foaf:givenName>Carlos Antonio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Mauricio Hochschild sus emprendimientos en Bolivia y su crecimiento económico en Potosí (1921-1939)</dc:title>
+        <dc:date>2019</dc:date>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:identifier>ISBN 9789997407788</dc:identifier>
+        <z:numPages>210</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="#item_2580">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>UMSA-FHCE Historia/ Instituto de Investigaciones Históricas</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Salluco Sirpa</foaf:surname>
+                        <foaf:givenName>Teodoro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>La explotación del cobre en el distrito minero de Corocoro a principios del siglo XX (1900-1930)</dc:title>
+        <dc:date>2013</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>La explotación de cobre en el distrito minero de Corocoro</z:shortTitle>
+        <z:numPages>247</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:La%20ni%C3%B1a%20del%20siglo%20XIX">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>UMSA-FHCE Historia/ Instituto de Investigaciones Históricas</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Adriázola Guillén</foaf:surname>
+                        <foaf:givenName>María Teresa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>La niña del siglo XIX. El objeto cultural como documento de análisis y testimonio histórico</dc:title>
+        <dc:date>2012</dc:date>
+        <z:language>es</z:language>
+        <dc:identifier>ISBN La niña del siglo XIX</dc:identifier>
+    </bib:Book>
+    <bib:Book rdf:about="#item_2582">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>UMSA-FHCE Historia/ Instituto de Investigaciones Históricas</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gómez García</foaf:surname>
+                        <foaf:givenName>Vannya</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Rutas y visiones de exploradores, conquistadores y misioneros hacia las tierras bajas de los mosetenes (Siglos XIII-XIX)</dc:title>
+        <dc:date>2016</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Rutas y visiones de exploradores</z:shortTitle>
+        <z:numPages>143</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="#item_2649">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Colección Carrera de Historia-Tesis</dc:title>
+                <dc:identifier>7</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>UMSA-FHCE Historia/ Instituto de Investigaciones Históricas</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gorriti</foaf:surname>
+                        <foaf:givenName>Zulema</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Historia de un pueblo de Repartimiento. Curahuara de Pacajes, siglos XVII-XVIII</dc:title>
+        <dc:date>2020</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Historia de un pueblo de Repartimiento</z:shortTitle>
+        <z:numPages>294</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="#item_2650">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Colección Carrera de Historia-Tesis</dc:title>
+                <dc:identifier>8</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>UMSA-FHCE Historia/ Instituto de Investigaciones Históricas</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Arana Santander</foaf:surname>
+                        <foaf:givenName>Ely Gloria</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Yareta, thola, ucha, turba y carbón. Los problemas de abastecimiento energético en la minería de la plata de Potosí (1872-1900)</dc:title>
+        <dc:date>2020</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Yareta, thola, ucha y carbón</z:shortTitle>
+        <z:numPages>137</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="#item_2651">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Colección Carrera de Historia-Tesis</dc:title>
+                <dc:identifier>9</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>UMSA-FHCE Historia/ Instituto de Investigaciones Históricas</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mita Luna</foaf:surname>
+                        <foaf:givenName>Jorge Luis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Historia del comercio minorista en la ciudad de La Paz, 1952-1994</dc:title>
+        <dc:date>2020</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Historia del comercio minorista</z:shortTitle>
+        <z:numPages>202</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="#item_2652">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Colección Carrera de Historia-Tesis</dc:title>
+                <dc:identifier>10</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>UMSA-FHCE Historia/ Instituto de Investigaciones Históricas</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>López Quispe</foaf:surname>
+                        <foaf:givenName>Daniel Rodrigo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>la capitalización de la Empresa Nacional de Ferrocarriles, ENFE, 1993-1997</dc:title>
+        <dc:date>2020</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>La capitalización del Empresa Nacional de Ferrocarriles</z:shortTitle>
+        <z:numPages>189</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="#item_3430">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Colección Carrera de Historia-Tesis</dc:title>
+                <dc:identifier>11</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>UMSA-FHCE Historia/ Instituto de Investigaciones Históricas</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mamani Flores</foaf:surname>
+                        <foaf:givenName>Zenón</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>La nacionalización de los ferrocarriles bolivianos 1956-1968</dc:title>
+        <dc:date>2021</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>La nacionalización de los ferrocarriles</z:shortTitle>
+    </bib:Book>
+</rdf:RDF>
