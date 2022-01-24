@@ -15,43 +15,33 @@ La descarga de base de datos está disponible en los siguientes formatos.
 
 ### CSV 
 
-[tesis de licenciatura](data/tesis-de-licenciatura.csv), 
-
-[trabajos dirigidos](data/trabajos-dirigidos.csv), 
-
-[proyectos de grado](data/proyectos-de-grado.csv), 
-
-[tesis de maestría](data/tesis-de-maestria.csv), 
-
-[tesis publicadas](data/tesis-publicadas.csv).
+1. [tesis de licenciatura](data/tesis-de-licenciatura.csv), 
+2. [trabajos dirigidos](data/trabajos-dirigidos.csv), 
+3. [proyectos de grado](data/proyectos-de-grado.csv), 
+4. [tesis de maestría](data/tesis-de-maestria.csv), 
+5. [tesis publicadas](data/tesis-publicadas.csv).
 
 ### BibTex
 
-[tesis de licenciatura](data/tesis-de-licenciatura.bib), 
-
-[trabajos dirigidos](data/trabajos-dirigidos.bib), 
-
-[proyectos de grado](data/proyectos-de-grado.bib), 
-
-[tesis de maestría](data/tesis-de-maestria.bib), 
-
-[tesis publicadas](data/tesis-publicadas.bib).
+1. [tesis de licenciatura](data/tesis-de-licenciatura.bib), 
+2. [trabajos dirigidos](data/trabajos-dirigidos.bib), 
+3. [proyectos de grado](data/proyectos-de-grado.bib), 
+4. [tesis de maestría](data/tesis-de-maestria.bib), 
+5. [tesis publicadas](data/tesis-publicadas.bib).
 
 ### Zotero: 
 
-[tesis de licenciatura](data/tesis-de-licenciatura.rdf), 
+1. [tesis de licenciatura](data/tesis-de-licenciatura.rdf), 
+2. [trabajos dirigidos](data/trabajos-dirigidos.rdf),
+3. [proyectos de grado](data/proyectos-de-grado.rdf), 
+4. [tesis de maestría](data/tesis-de-maestria.rdf), 
+5. [tesis publicadas](data/tesis-publicadas.rdf).
 
-[trabajos dirigidos](data/trabajos-dirigidos.rdf),
+### Excel: 
+- [resumido](data/resumen-trabajos-de-grado-carrera-historia-enero-2022.xlsx)
 
-[proyectos de grado](data/proyectos-de-grado.rdf), 
-
-[tesis de maestría](data/tesis-de-maestria.rdf), 
-
-[tesis publicadas](data/tesis-publicadas.rdf).
-
-### Excel: [resumido](data/resumen-trabajos-de-grado-carrera-historia-enero-2022.xlsx)
-
-### PDF: [resumido](data/historia-umsa.pdf)
+### PDF: 
+- [resumido](data/historia-umsa.pdf)
 
 A continuación se presenta una lista con datos bibliográficos básicos de las modalidad de grado y las tesis publicadas:
 
