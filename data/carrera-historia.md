@@ -51,10 +51,11 @@ A continuación se presenta una lista con datos bibliográficos básicos de las 
 4. Tesis de maestría
 5. Tesis publicadas
    
+
 ## Lista de datos por modalidad de grado y las tesis publicadas
 
-1. Tesis de licenciatura
-   
+### Tesis de licenciatura
+
 | Año  | Autor                                      | Título                                                       |
 | ---- | ------------------------------------------ | ------------------------------------------------------------ |
 | 2021 | Gutiérrez  Conde, Richard Nelson           | Reforma  Agraria previa en la región lacustre del Titiqaqa, Hacienda de  "Wat'axata", Provincia Omasuyus del Departamento de La Paz,  1900-1945 |
@@ -208,7 +209,7 @@ A continuación se presenta una lista con datos bibliográficos básicos de las 
 | 1975 | Cajías de la  Vega, Fernando Julio         | La  provincia de Atacama, 1825-1841                          |
 | 1975 | Ballivian Martins, María Florencia         | José María Pérez de Urdininea en el  norte argentino (1819-1825) |
 
-2. Trabajos dirigidos
+### Trabajos dirigidos
 
 | Año  | Autor                                   | Título                                                       |
 | ---- | --------------------------------------- | ------------------------------------------------------------ |
@@ -233,18 +234,20 @@ A continuación se presenta una lista con datos bibliográficos básicos de las 
 | 2006 | Amusquivar  Caballero, Wilma            | El  modelo educativo de núcleo. Una aproximación a la experiencia educativa del  sistema núcleo-seccionales (1930-1940) |
 | 2000 | Viaña Armijo, José Francisco            | Manual de organización de archivos para  organizar los archivos de la Contraloría General de la República |   |
 
-3. Proyectos de grado
-| Año  | Autor                                                  | Título                                                       |
-| ---- | ------------------------------------------------------ | ------------------------------------------------------------ |
-| 2021 | Huanca Rivero,  Horacio Guery; Cuba Quispe, Simón      | Manual  de Organización Documental del Archivo Central de PRO – BOLIVIA |
-| 2020 | Alcázar Rivero, Gabriela del Rocío; Cuba Quispe, Simón | Manual de procedimientos de archivo de  gestión de la Dirección General de Planificación, Ministerio de Obras  Públicas, Servicios y Vivienda |
-| 2020 | Condori Quispe,  Marco Antonio; Aillón Soria, Esther   | Propuesta  de innovación de la enseñanza de la historia en estudiantes de sexto de  secundaria en la Unidad Educativa Nacional de Ayo Ayo, departamento de La Paz |
-| 2019 | Silvestre Patzi, Magali; Chuquimia Bonifaz, Fernando   | Manual de organización documental y  gestión del archivo central de la administración de servicios portuarios –  Bolivia ASP-B |
-| 2006 | Ramirez Simón,  Rolando                                | El  sistema nacional de archivos de la Adunana Nacional de Bolivia |
-| 2003 | Villegas Borjes, Iris América                          | Archivo histórico de la provincia Sud  Chichas               |
+###  Proyectos de grado
 
-4. Tesis de maestría
-   
+| Año  | Autor                              | Título                                                       |
+| ---- | ---------------------------------- | ------------------------------------------------------------ |
+| 2021 | Huanca Rivero,  Horacio Guery      | Manual  de Organización Documental del Archivo Central de PRO – BOLIVIA |
+| 2020 | Alcázar Rivero, Gabriela del Rocío | Manual de procedimientos de archivo de  gestión de la Dirección General de Planificación, Ministerio de Obras  Públicas, Servicios y Vivienda |
+| 2020 | Condori Quispe,  Marco Antonio     | Propuesta  de innovación de la enseñanza de la historia en estudiantes de sexto de  secundaria en la Unidad Educativa Nacional de Ayo Ayo, departamento de La Paz |
+| 2019 | Silvestre Patzi, Magali;           | Manual de organización documental y  gestión del archivo central de la administración de servicios portuarios –  Bolivia ASP-B |
+| 2018 | Choque Ticona, Gonzalo Omar        | Manual de Procedimiento de los Archivos Intermedios e Históricos del Ministerio de Obras Públicas Servicios y Vivienda - MOPSV |
+| 2006 | Ramirez Simón,  Rolando            | El  sistema nacional de archivos de la Adunana Nacional de Bolivia |
+| 2003 | Villegas Borjes, Iris América      | Archivo histórico de la provincia Sud  Chichas               |
+
+###  Tesis de maestría
+
 | Año  | Autor                             | Título                                                       |
 | ---- | --------------------------------- | ------------------------------------------------------------ |
 | 2020 | Chuquimia  Meave, Franz Solano    | De  Huarina a Yungay. Creación, vigencia y colapso de la Confederación  Perú-Boliviana |
@@ -253,7 +256,7 @@ A continuación se presenta una lista con datos bibliográficos básicos de las 
 | 2013 | Oporto Ordóñez, Luis              | La construcción de la bibliografía  nacional. Historia de las bibliotecas en Bolivia |
 | 2010 | Caballero  Espinoza, Ángela María | La  virgen de Copacabana. Construcción de identidades de género en torno al  imaginario de una mujer madre en los Andes |
 
-5. Tesis publicadas
+###  Tesis publicadas
 
 | Año  | Autor                                    | Título                                                       | Editor                                                       | Lugar    |
 | ---- | ---------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |

@@ -213,4 +213,42 @@
         <z:shortTitle>Manual de Organización Documental de Archivo</z:shortTitle>
         <z:type>Proyecto de Grado de Licenciatura en Historia</z:type>
     </bib:Thesis>
+    <bib:Thesis rdf:about="#item_3478">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>La Paz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad Mayor de San Andrés</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Choque Ticona</foaf:surname>
+                        <foaf:givenName>Gonzalo Omar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cuba Quispe</foaf:surname>
+                        <foaf:givenName>Simón</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>Manual de Procedimiento de los Archivos Intermedios e Históricos del Ministerio de Obras Públicas Servicios y Vivienda - MOPSV</dc:title>
+        <dc:date>2018</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>Manual de Procedimiento de los Archivos Intermedios</z:shortTitle>
+        <z:type>Proyecto de Grado de Licenciatura en Historia</z:type>
+    </bib:Thesis>
 </rdf:RDF>
