@@ -1,6 +1,6 @@
 Este repositorio recopila los datos bibliográficos de los trabajos proyectos de grado en la Carrera de Historia de la Universidad Mayor de San Andrés (La Paz, Bolivia) desde el año 1975 hasta el 2021. También incluye información de las tesis publicadas. Se debe anotar que este repositorio y base de datos no es oficial.
 
-La Carrera de Historia fue creada el año 1966 y ofrecía el grado terminal de licenciatura hasta el año 2015. Desde el año 2016 esta unidad académica ofrece el grado terminal de maestría. La Carrera de Historia fue acreditada internacionalmente el año 2019.
+La Carrera de Historia }fue creada el año 1966 y ofrecía el grado terminal de licenciatura hasta el año 2015. Desde el año 2016 esta unidad académica ofrece el grado terminal de maestría. La Carrera de Historia fue acreditada internacionalmente el año 2019.
 
 El objetivo de este proyecto es ofrecer una base de datos bibliográficos de acceso abierto en Github en diferentes formatos. Así, cualquier persona puede consultar la base, utilizarla y/o actualizarla para diferentes propósitos
 
@@ -29,7 +29,7 @@ La descarga de base de datos está disponible en los siguientes formatos.
 4. [tesis de maestría](data/tesis-de-maestria.bib), 
 5. [tesis publicadas](data/tesis-publicadas.bib).
 
-### Zotero: 
+### Zotero RDF
 
 1. [tesis de licenciatura](data/tesis-de-licenciatura.rdf), 
 2. [trabajos dirigidos](data/trabajos-dirigidos.rdf),
@@ -37,10 +37,10 @@ La descarga de base de datos está disponible en los siguientes formatos.
 4. [tesis de maestría](data/tesis-de-maestria.rdf), 
 5. [tesis publicadas](data/tesis-publicadas.rdf).
 
-### Excel: 
+### Excel
 - [resumido](data/resumen-trabajos-de-grado-carrera-historia-enero-2022.xlsx)
 
-### PDF: 
+### PDF 
 - [resumido](data/historia-umsa.pdf)
 
 A continuación se presenta una lista con datos bibliográficos básicos de las modalidad de grado y las tesis publicadas:
@@ -50,7 +50,8 @@ A continuación se presenta una lista con datos bibliográficos básicos de las 
 3. Proyectos de grado
 4. Tesis de maestría
 5. Tesis publicadas
----------------
+   
+## Lista de datos por modalidad de grado y las tesis publicadas
 
 1. Tesis de licenciatura
    
@@ -206,7 +207,7 @@ A continuación se presenta una lista con datos bibliográficos básicos de las 
 | 1976 | Gomez Asport, Blanca Asunción              | Casimiro Olañeta diplomático, 1824-1841                      |
 | 1975 | Cajías de la  Vega, Fernando Julio         | La  provincia de Atacama, 1825-1841                          |
 | 1975 | Ballivian Martins, María Florencia         | José María Pérez de Urdininea en el  norte argentino (1819-1825) |
-   
+
 2. Trabajos dirigidos
 
 | Año  | Autor                                   | Título                                                       |
@@ -231,7 +232,7 @@ A continuación se presenta una lista con datos bibliográficos básicos de las 
 | 2008 | Mogro-Moreno Mercado, María Olga Alicia | Reglamento del Sistema de Archivo del  Banco Central de Bolivia |
 | 2006 | Amusquivar  Caballero, Wilma            | El  modelo educativo de núcleo. Una aproximación a la experiencia educativa del  sistema núcleo-seccionales (1930-1940) |
 | 2000 | Viaña Armijo, José Francisco            | Manual de organización de archivos para  organizar los archivos de la Contraloría General de la República |   |
-   
+
 3. Proyectos de grado
 | Año  | Autor                                                  | Título                                                       |
 | ---- | ------------------------------------------------------ | ------------------------------------------------------------ |
@@ -242,7 +243,7 @@ A continuación se presenta una lista con datos bibliográficos básicos de las 
 | 2006 | Ramirez Simón,  Rolando                                | El  sistema nacional de archivos de la Adunana Nacional de Bolivia |
 | 2003 | Villegas Borjes, Iris América                          | Archivo histórico de la provincia Sud  Chichas               |
 
-1. Tesis de maestría
+4. Tesis de maestría
    
 | Año  | Autor                             | Título                                                       |
 | ---- | --------------------------------- | ------------------------------------------------------------ |
@@ -251,8 +252,8 @@ A continuación se presenta una lista con datos bibliográficos básicos de las 
 | 2014 | Chuquimia Bonifaz, Fernando       | El  aporte de Juan Siles Guevara a la historiografía boliviana 1960-1990 |
 | 2013 | Oporto Ordóñez, Luis              | La construcción de la bibliografía  nacional. Historia de las bibliotecas en Bolivia |
 | 2010 | Caballero  Espinoza, Ángela María | La  virgen de Copacabana. Construcción de identidades de género en torno al  imaginario de una mujer madre en los Andes |
-   
-2. Tesis publicadas
+
+5. Tesis publicadas
 
 | Año  | Autor                                    | Título                                                       | Editor                                                       | Lugar    |
 | ---- | ---------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
