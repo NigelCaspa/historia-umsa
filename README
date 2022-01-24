@@ -14,24 +14,39 @@ El objetivo de este proyecto es ofrecer una base de datos bibliográficos de acc
 La descarga de base de datos está disponible en los siguientes formatos.
 
 CSV 
+
 [tesis de licenciatura](data/tesis-de-licenciatura.csv), 
+
 [trabajos dirigidos](data/trabajos-dirigidos.csv), 
+
 [proyectos de grado](data/proyectos-de-grado.csv), 
+
 [tesis de maestría](data/tesis-de-maestria.csv), 
+
 [tesis publicadas](data/tesis-publicadas.csv).
 
 BibTex
+
 [tesis de licenciatura](data/tesis-de-licenciatura.bib), 
+
 [trabajos dirigidos](data/trabajos-dirigidos.bib), 
+
 [proyectos de grado](data/proyectos-de-grado.bib), 
+
 [tesis de maestría](data/tesis-de-maestria.bib), 
+
 [tesis publicadas](data/tesis-publicadas.bib).
 
 Zotero: 
+
 [tesis de licenciatura](data/tesis-de-licenciatura.rdf), 
-[trabajos dirigidos](data/trabajos-dirigidos.rdf), 
+
+[trabajos dirigidos](data/trabajos-dirigidos.rdf),
+
 [proyectos de grado](data/proyectos-de-grado.rdf), 
+
 [tesis de maestría](data/tesis-de-maestria.rdf), 
+
 [tesis publicadas](data/tesis-publicadas.rdf).
 
 Excel: [resumido](data/resumen-trabajos-de-grado-carrera-historia-enero-2022.xlsx)
