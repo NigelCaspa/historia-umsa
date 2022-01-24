@@ -1,10 +1,10 @@
-Esta entrada recopila los datos bibliográficos de los trabajos proyectos de grado en la Carrera de Historia de la Universidad Mayor de San Andrés (La Paz, Bolivia) desde el año 1975 hasta el 2021. También incluye información de las tesis publicadas. Se debe anotar que esta base de datos no es oficial.
+Este repositorio recopila los datos bibliográficos de los trabajos proyectos de grado en la Carrera de Historia de la Universidad Mayor de San Andrés (La Paz, Bolivia) desde el año 1975 hasta el 2021. También incluye información de las tesis publicadas. Se debe anotar que este repositorio y base de datos no es oficial.
 
-La Carrera de Historia fue creada el año 1966 y ofrecía el grado terminal de licenciatura hasta el año 2015. Desde el año 2016 esta unidad académica ofrece el grado terminal de maestría. La Carrera de Historia fue acreditada internacionalmente el año 2019.
+La Carrera de Historia }fue creada el año 1966 y ofrecía el grado terminal de licenciatura hasta el año 2015. Desde el año 2016 esta unidad académica ofrece el grado terminal de maestría. La Carrera de Historia fue acreditada internacionalmente el año 2019.
 
 El objetivo de este proyecto es ofrecer una base de datos bibliográficos de acceso abierto en Github en diferentes formatos. Así, cualquier persona puede consultar la base, utilizarla y/o actualizarla para diferentes propósitos
 
-### Notas: 
+## Notas: 
 - Si deseas buscar un término o palabra en esta pagina, presiona en tu teclado Ctrl+F. 
 - Para una búsqueda más eficiente se recomienda descargar la base de datos en los formatos disponibles. 
 - Esta base de datos puede contener omisiones involuntarias. 
@@ -13,7 +13,7 @@ El objetivo de este proyecto es ofrecer una base de datos bibliográficos de acc
 
 La descarga de base de datos está disponible en los siguientes formatos.
 
-CSV 
+### CSV 
 
 [tesis de licenciatura](data/tesis-de-licenciatura.csv), 
 
@@ -25,7 +25,7 @@ CSV
 
 [tesis publicadas](data/tesis-publicadas.csv).
 
-BibTex
+### BibTex
 
 [tesis de licenciatura](data/tesis-de-licenciatura.bib), 
 
@@ -37,7 +37,7 @@ BibTex
 
 [tesis publicadas](data/tesis-publicadas.bib).
 
-Zotero: 
+### Zotero: 
 
 [tesis de licenciatura](data/tesis-de-licenciatura.rdf), 
 
@@ -49,8 +49,9 @@ Zotero:
 
 [tesis publicadas](data/tesis-publicadas.rdf).
 
-Excel: [resumido](data/resumen-trabajos-de-grado-carrera-historia-enero-2022.xlsx)
-PDF: [resumido](data/historia-umsa.pdf)
+### Excel: [resumido](data/resumen-trabajos-de-grado-carrera-historia-enero-2022.xlsx)
+
+### PDF: [resumido](data/historia-umsa.pdf)
 
 A continuación se presenta una lista con datos bibliográficos básicos de las modalidad de grado y las tesis publicadas:
 
