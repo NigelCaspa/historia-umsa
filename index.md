@@ -29,7 +29,7 @@ La descarga de base de datos está disponible en los siguientes formatos.
 4. [tesis de maestría](data/tesis-de-maestria.bib), 
 5. [tesis publicadas](data/tesis-publicadas.bib).
 
-### Zotero: 
+### Zotero RDF
 
 1. [tesis de licenciatura](data/tesis-de-licenciatura.rdf), 
 2. [trabajos dirigidos](data/trabajos-dirigidos.rdf),
@@ -37,10 +37,10 @@ La descarga de base de datos está disponible en los siguientes formatos.
 4. [tesis de maestría](data/tesis-de-maestria.rdf), 
 5. [tesis publicadas](data/tesis-publicadas.rdf).
 
-### Excel: 
+### Excel
 - [resumido](data/resumen-trabajos-de-grado-carrera-historia-enero-2022.xlsx)
 
-### PDF: 
+### PDF 
 - [resumido](data/historia-umsa.pdf)
 
 A continuación se presenta una lista con datos bibliográficos básicos de las modalidad de grado y las tesis publicadas:
