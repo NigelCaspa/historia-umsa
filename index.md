@@ -50,7 +50,8 @@ A continuación se presenta una lista con datos bibliográficos básicos de las 
 3. Proyectos de grado
 4. Tesis de maestría
 5. Tesis publicadas
----------------
+   
+
 
 1. Tesis de licenciatura
    
@@ -242,7 +243,7 @@ A continuación se presenta una lista con datos bibliográficos básicos de las 
 | 2006 | Ramirez Simón,  Rolando                                | El  sistema nacional de archivos de la Adunana Nacional de Bolivia |
 | 2003 | Villegas Borjes, Iris América                          | Archivo histórico de la provincia Sud  Chichas               |
 
-1. Tesis de maestría
+4. Tesis de maestría
    
 | Año  | Autor                             | Título                                                       |
 | ---- | --------------------------------- | ------------------------------------------------------------ |
@@ -252,7 +253,7 @@ A continuación se presenta una lista con datos bibliográficos básicos de las 
 | 2013 | Oporto Ordóñez, Luis              | La construcción de la bibliografía  nacional. Historia de las bibliotecas en Bolivia |
 | 2010 | Caballero  Espinoza, Ángela María | La  virgen de Copacabana. Construcción de identidades de género en torno al  imaginario de una mujer madre en los Andes |
    
-2. Tesis publicadas
+5. Tesis publicadas
 
 | Año  | Autor                                   | Título                                                       | Serie                                                        | Editor                                                       |
 | ---- | --------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
