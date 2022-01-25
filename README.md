@@ -1,56 +1,32 @@
+## Repositorio de datos bibliográficos
 Este repositorio recopila los datos bibliográficos de los trabajos de grado en la Carrera de Historia de la Universidad Mayor de San Andrés (La Paz, Bolivia) desde el año 1975 hasta el 2021. También incluye información de las tesis publicadas. Se debe anotar que este repositorio y base de datos no es oficial.
 
 La Carrera de Historia fue creada el año 1966 y ofrecía el grado terminal de licenciatura hasta el año 2015. Desde el año 2016 esta unidad académica ofrece el grado terminal de maestría. La Carrera de Historia fue acreditada internacionalmente el año 2019.
 
 El objetivo de este proyecto es ofrecer una base de datos bibliográficos de acceso abierto en Github en diferentes formatos. Así, cualquier persona puede consultar la base, utilizarla y/o actualizarla para diferentes propósitos
 
-## Notas: 
+## Notas 
 - Si deseas buscar un término o palabra en esta pagina, presiona Ctrl+F. 
 - Para una búsqueda más eficiente se recomienda descargar la base de datos en los formatos disponibles. 
 - Esta base de datos puede contener omisiones involuntarias. 
 - Si tienes información que agregar puedes escribir a [nigel.caspa@gmail.com](mailto:nigel.caspa@gmail.com).
 - La base de datos se actualizará en el mes enero de cada año.
 
-La descarga de base de datos está disponible en los siguientes formatos.
+## Links de descarga
 
-### CSV 
+Tesis de licenciatura: descargar en [CSV](https://nigelcaspa.github.io/historia-umsa/data/tesis-de-licenciatura.csv), [BibTex](https://nigelcaspa.github.io/historia-umsa/data/tesis-de-licenciatura.bib),[Zotero RDF](https://nigelcaspa.github.io/historia-umsa/data/tesis-de-licenciatura.rdf).
 
-1. [tesis de licenciatura](data/tesis-de-licenciatura.csv), 
-2. [trabajos dirigidos](data/trabajos-dirigidos.csv), 
-3. [proyectos de grado](data/proyectos-de-grado.csv), 
-4. [tesis de maestría](data/tesis-de-maestria.csv), 
-5. [tesis publicadas](data/tesis-publicadas.csv).
+Trabajos dirigidos: descargar en [CSV](https://nigelcaspa.github.io/historia-umsa/data/trabajos-dirigidos.csv), [BibTex](https://nigelcaspa.github.io/historia-umsa/data/trabajos-dirigidos.bib), [Zotero RDF](https://nigelcaspa.github.io/historia-umsa/data/trabajos-dirigidos.rdf).
 
-### BibTex
+Proyectos de grado: descargar en [CSV](https://nigelcaspa.github.io/historia-umsa/data/proyectos-de-grado.csv), [BibTex](https://nigelcaspa.github.io/historia-umsa/data/proyectos-de-grado.bib), [Zotero RDF](https://nigelcaspa.github.io/historia-umsa/data/proyectos-de-grado.rdf).
 
-1. [tesis de licenciatura](data/tesis-de-licenciatura.bib), 
-2. [trabajos dirigidos](data/trabajos-dirigidos.bib), 
-3. [proyectos de grado](data/proyectos-de-grado.bib), 
-4. [tesis de maestría](data/tesis-de-maestria.bib), 
-5. [tesis publicadas](data/tesis-publicadas.bib).
+Tesis de maestría: descargar en [CSV](https://nigelcaspa.github.io/historia-umsa/data/tesis-de-maestria.csv), [BibTex](https://nigelcaspa.github.io/historia-umsa/data/tesis-de-maestria.bib), [Zotero RDF](https://nigelcaspa.github.io/historia-umsa/data/tesis-de-maestria.rdf).
 
-### Zotero: 
+Tesis publicadas: descargar en [CSV](https://nigelcaspa.github.io/historia-umsa/data/tesis-publicadas.csv), [BibTex](https://nigelcaspa.github.io/historia-umsa/data/tesis-publicadas.bib), [Zotero RDF](https://nigelcaspa.github.io/historia-umsa/data/tesis-publicadas.rdf).
 
-1. [tesis de licenciatura](data/tesis-de-licenciatura.rdf), 
-2. [trabajos dirigidos](data/trabajos-dirigidos.rdf),
-3. [proyectos de grado](data/proyectos-de-grado.rdf), 
-4. [tesis de maestría](data/tesis-de-maestria.rdf), 
-5. [tesis publicadas](data/tesis-publicadas.rdf).
-
-### Excel: 
-- [resumido](data/resumen-trabajos-de-grado-carrera-historia-enero-2022.xlsx)
-
-### PDF: 
-- [resumido](data/historia-umsa.pdf)
+## Resumen de datos bibliográficos
 
 A continuación se presenta una lista con datos bibliográficos básicos de las modalidad de grado y las tesis publicadas:
-
-1. Tesis de licenciatura
-2. Trabajos dirigidos
-3. Proyectos de grado
-4. Tesis de maestría
-5. Tesis publicadas
----------------
 
 #### Tesis de licenciatura
    
