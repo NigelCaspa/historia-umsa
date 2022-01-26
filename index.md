@@ -24,11 +24,11 @@ Proyectos de grado: descargar en [CSV](https://nigelcaspa.github.io/historia-ums
 
 Tesis de maestría: descargar en [CSV](https://nigelcaspa.github.io/historia-umsa/data/tesis-de-maestria.csv), [BibTex](https://nigelcaspa.github.io/historia-umsa/data/tesis-de-maestria.bib), [Zotero RDF](https://nigelcaspa.github.io/historia-umsa/data/tesis-de-maestria.rdf).
 
-Tesis publicadas: descargar en [CSV](https://nigelcaspa.github.io/historia-umsa/data/tesis-publicadas.csv), [BibTex](https://nigelcaspa.github.io/historia-umsa/data/tesis-publicadas.bib), [Zotero RDF](https://nigelcaspa.github.io/historia-umsa/data/tesis-publicadas.rdf).
+Tesis publicadas: descargar en [CSV](https://nigelcaspa.github.io/historia-umsa/data/tesis-publicadas.csv), [BibTex](https://nigelcaspa.github.io/historia-umsa/data/tesis-publicadas.bib), [Zotero RDF](https://nigelcaspa.github.io/historia-umsa/data/tesis-publicadas.rdf). 
 
 ## Resumen de datos bibliográficos
 
-A continuación se presenta una lista con datos bibliográficos básicos de las modalidad de grado y las tesis publicadas:
+A continuación se presenta una lista con datos bibliográficos básicos de las modalidad de grado y las tesis publicadas. También puedes descargar el resumen en [PDF](https://nigelcaspa.github.io/historia-umsa/data/historia-umsa.pdf) y [Excel](https://nigelcaspa.github.io/historia-umsa/data/resumen-trabajos-de-grado-carrera-historia-enero-2022.xlsx).
 
 #### Tesis de licenciatura
    
