@@ -279,3 +279,5 @@ A continuación se presenta una lista con datos bibliográficos básicos de las 
 | 1978 | Gomez de Aranda, Blanca                  | Casimiro Olañeta, diplomático, 1824-1839                     | Instituto Boliviano de Cultura                               | La Paz   |
 | 1978 | Portugal Ortiz,  Max                     | La arqueología  de la región del Río Beni                    | Casa Municipal  de la Cultura Franz Tamayo                   | La  Paz  |
 | 1975 | Cajías de la Vega, Fernando              | La Provincia de Atacama, 1825-1842                           | Instituto Boliviano de Cultura                               | La Paz   |
+
+[Link page 2](page-2.html)
