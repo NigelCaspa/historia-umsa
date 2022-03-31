@@ -281,3 +281,4 @@ A continuación se presenta una lista con datos bibliográficos básicos de las 
 | 1975 | Cajías de la Vega, Fernando              | La Provincia de Atacama, 1825-1842                           | Instituto Boliviano de Cultura                               | La Paz   |
 
 [Link page 2](page-2.md)
+[Link page 2](page-3.md)
